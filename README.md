@@ -16,8 +16,44 @@ This project implements the **original Transformer architecture** from scratch u
 
 The implementation follows the original Transformer paper exactly:
 
-```
-Input Embedding → Positional Encoding → Encoder Stack → Decoder Stack → Output Projection
+```mermaid
+graph TB
+    subgraph "Input Processing"
+        A[English Input: 'How are you?'] --> B[Input Embedding]
+        B --> C[+ Positional Encoding]
+        D[Hindi Input: 'कैसे हैं'] --> E[Output Embedding]
+        E --> F[+ Positional Encoding]
+    end
+    
+    subgraph "Encoder Stack (6 layers)"
+        C --> G[Multi-Head Self-Attention]
+        G --> H[Add & Norm]
+        H --> I[Feed Forward]
+        I --> J[Add & Norm]
+        J --> K[Encoder Output]
+    end
+    
+    subgraph "Decoder Stack (6 layers)"
+        F --> L[Masked Multi-Head Self-Attention]
+        L --> M[Add & Norm]
+        M --> N[Multi-Head Cross-Attention]
+        K --> N
+        N --> O[Add & Norm]
+        O --> P[Feed Forward]
+        P --> Q[Add & Norm]
+    end
+    
+    subgraph "Output Generation"
+        Q --> R[Linear Projection]
+        R --> S[Softmax]
+        S --> T[Hindi Output: 'कैसे हैं आप?']
+    end
+    
+    style A fill:#e1f5fe
+    style T fill:#e8f5e8
+    style K fill:#fff3e0
+    style G fill:#f3e5f5
+    style N fill:#ffebee
 ```
 
 ### Core Components Implemented
@@ -98,6 +134,32 @@ n_layers = 6           # Number of encoder/decoder layers
 d_ff = 2048           # Feed-forward dimension
 dropout = 0.1          # Dropout rate
 max_seq_len = 100     # Maximum sequence length
+```
+
+### Training Process Flow
+
+```mermaid
+sequenceDiagram
+    participant D as Dataset
+    participant T as Tokenizer
+    participant M as Transformer Model
+    participant L as Loss Function
+    participant O as Optimizer
+    
+    D->>T: Load English-Hindi pairs
+    T->>M: Tokenized sequences
+    Note over M: Forward pass through<br/>Encoder + Decoder
+    M->>L: Model predictions
+    L->>O: Compute loss & gradients
+    O->>M: Update parameters
+    
+    loop Training Epochs
+        M->>M: Batch processing
+        Note over M: Masked attention prevents<br/>future token access
+    end
+    
+    M->>M: Generate translation
+    Note over M: Greedy decoding<br/>one token at a time
 ```
 
 > 📝 **Note**: BLEU scores are intentionally low as this is a learning implementation trained on a small dataset with minimal preprocessing. The focus is on understanding the architecture, not achieving production-level performance.
@@ -278,6 +340,7 @@ python train.py --src_lang en --tgt_lang fr --data_path data/en_fr.txt
 ```
 
 ---
+
 ## 📚 Educational Resources
 
 ### Essential Papers
@@ -308,7 +371,7 @@ python train.py --src_lang en --tgt_lang fr --data_path data/en_fr.txt
 - Implement subword tokenization (BPE/SentencePiece)
 - Add beam search and nucleus sampling
 - Optimize memory usage for longer sequences
-- Add support for different language pairs(thinkinf of using Indic2 for Kannada,Tamil,Telugu support.
+- Add support for different language pairs
 
 ---
 
@@ -335,16 +398,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Everyone who has contributed to making NLP accessible through educational resources
 
 ---
-
-## 🔖 Citation
-
-If you use this educational implementation in your research or teaching, please cite:
-
-```bibtex
-@misc{Rudransh2024transformer,
-  title={Transformer from Scratch: Educational Implementation},
-  author={ Rudransh Kumar Ankodia},
-  year={2024},
-  url={https://github.com/rudranx/Hindi-English-Transformer-Model}
-}
-```
