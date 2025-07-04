@@ -49,11 +49,13 @@ graph TB
         S --> T[Hindi Output: 'कैसे हैं आप?']
     end
     
-    style A fill:#e1f5fe
-    style T fill:#e8f5e8
-    style K fill:#fff3e0
-    style G fill:#f3e5f5
-    style N fill:#ffebee
+    %% Dark theme styling
+    style A fill:#1e3a8a,stroke:#3b82f6,color:#ffffff
+    style T fill:#166534,stroke:#22c55e,color:#ffffff
+    style K fill:#854d0e,stroke:#f59e0b,color:#ffffff
+    style G fill:#581c87,stroke:#a855f7,color:#ffffff
+    style N fill:#991b1b,stroke:#ef4444,color:#ffffff
+
 ```
 
 ### Core Components Implemented
