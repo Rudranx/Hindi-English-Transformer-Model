@@ -1,0 +1,3116 @@
+<start> wow! <end>
+<start> duck! <end>
+<start> duck! <end>
+<start> help! <end>
+<start> jump. <end>
+<start> jump. <end>
+<start> jump. <end>
+<start> hello! <end>
+<start> hello! <end>
+<start> cheers! <end>
+<start> cheers! <end>
+<start> exhale. <end>
+<start> exhale. <end>
+<start> got it? <end>
+<start> i'm ok. <end>
+<start> inhale. <end>
+<start> inhale. <end>
+<start> thanks! <end>
+<start> we won. <end>
+<start> awesome! <end>
+<start> come in. <end>
+<start> get out! <end>
+<start> go away! <end>
+<start> goodbye! <end>
+<start> perfect! <end>
+<start> perfect! <end>
+<start> we lost. <end>
+<start> welcome. <end>
+<start> welcome. <end>
+<start> have fun. <end>
+<start> have fun. <end>
+<start> have fun. <end>
+<start> i forgot. <end>
+<start> i forgot. <end>
+<start> i'll pay. <end>
+<start> i'm fine. <end>
+<start> i'm full. <end>
+<start> let's go! <end>
+<start> pick tom. <end>
+<start> answer me. <end>
+<start> birds fly. <end>
+<start> excuse me. <end>
+<start> fantastic! <end>
+<start> i fainted. <end>
+<start> i fear so. <end>
+<start> i laughed. <end>
+<start> i'm alone. <end>
+<start> i'm alone. <end>
+<start> i'm bored. <end>
+<start> i'm broke. <end>
+<start> i'm tired. <end>
+<start> it's cold. <end>
+<start> well done! <end>
+<start> who knows? <end>
+<start> who knows? <end>
+<start> who knows? <end>
+<start> who knows? <end>
+<start> wonderful! <end>
+<start> birds sing. <end>
+<start> come on in. <end>
+<start> definitely! <end>
+<start> don't move. <end>
+<start> fire burns. <end>
+<start> follow him. <end>
+<start> i can swim. <end>
+<start> i can swim. <end>
+<start> i love you. <end>
+<start> i love you. <end>
+<start> i love you. <end>
+<start> i love you. <end>
+<start> i love you. <end>
+<start> i'm coming. <end>
+<start> i'm hungry! <end>
+<start> i'm hungry! <end>
+<start> let him in. <end>
+<start> let him in. <end>
+<start> let me out! <end>
+<start> once again. <end>
+<start> please sit. <end>
+<start> ridiculous! <end>
+<start> ridiculous! <end>
+<start> ridiculous! <end>
+<start> that a boy! <end>
+<start> tom smiled. <end>
+<start> tom yawned. <end>
+<start> what's new? <end>
+<start> what's new? <end>
+<start> who's that? <end>
+<start> don't shout. <end>
+<start> don't shout. <end>
+<start> he stood up. <end>
+<start> he's strong. <end>
+<start> how are you? <end>
+<start> how are you? <end>
+<start> how are you? <end>
+<start> how are you? <end>
+<start> how are you? <end>
+<start> how are you? <end>
+<start> how are you? <end>
+<start> how are you? <end>
+<start> i like both. <end>
+<start> i like cake. <end>
+<start> i like dogs. <end>
+<start> i like math. <end>
+<start> i'll attend. <end>
+<start> nobody came. <end>
+<start> nobody lied. <end>
+<start> put it down. <end>
+<start> was i wrong? <end>
+<start> we promised. <end>
+<start> what's this? <end>
+<start> are you sick? <end>
+<start> bring him in. <end>
+<start> come with us. <end>
+<start> happy easter! <end>
+<start> has tom left? <end>
+<start> i am at home. <end>
+<start> i can't move. <end>
+<start> i don't know. <end>
+<start> i don't know. <end>
+<start> i have a car. <end>
+<start> i have a dog. <end>
+<start> i understand. <end>
+<start> i'm a doctor. <end>
+<start> it is a book. <end>
+<start> it's snowing. <end>
+<start> it's too big. <end>
+<start> please leave. <end>
+<start> unbelievable! <end>
+<start> we are happy. <end>
+<start> what is this? <end>
+<start> are you tired? <end>
+<start> can you drive? <end>
+<start> do you get it? <end>
+<start> don't get fat. <end>
+<start> don't give in. <end>
+<start> drink it down. <end>
+<start> everyone dies. <end>
+<start> flowers bloom. <end>
+<start> i am who i am. <end>
+<start> i know things. <end>
+<start> i like donuts. <end>
+<start> i'll take him. <end>
+<start> i'm tired now. <end>
+<start> i'm very busy. <end>
+<start> is that a cat? <end>
+<start> it's for free. <end>
+<start> it's for free. <end>
+<start> let me try it. <end>
+<start> let me try it. <end>
+<start> let me try it. <end>
+<start> let's do that. <end>
+<start> make it quick. <end>
+<start> may i come in? <end>
+<start> open the door. <end>
+<start> open the door. <end>
+<start> please get in. <end>
+<start> read it again. <end>
+<start> read it aloud. <end>
+<start> she bent down. <end>
+<start> some fish fly. <end>
+<start> that was ours. <end>
+<start> this is a map. <end>
+<start> tom is my son. <end>
+<start> we're in town. <end>
+<start> were you shot? <end>
+<start> what about us? <end>
+<start> can i help you? <end>
+<start> can i help you? <end>
+<start> clean the room. <end>
+<start> don't touch it. <end>
+<start> get out of bed! <end>
+<start> happy new year! <end>
+<start> happy new year! <end>
+<start> happy birthday! <end>
+<start> happy holidays. <end>
+<start> he has a beard. <end>
+<start> he is an actor. <end>
+<start> he was hard up. <end>
+<start> i like history. <end>
+<start> i like the dog. <end>
+<start> i must buy one. <end>
+<start> i'll come back. <end>
+<start> i'll phone you. <end>
+<start> i'll stay home. <end>
+<start> i'm an atheist. <end>
+<start> i'm an atheist. <end>
+<start> i'm very tired. <end>
+<start> it's hot today. <end>
+<start> it's this book. <end>
+<start> it's your move. <end>
+<start> only god knows. <end>
+<start> summer is over. <end>
+<start> take your time. <end>
+<start> think about it. <end>
+<start> this is a book. <end>
+<start> this is a book. <end>
+<start> this is my bag. <end>
+<start> this is my dog. <end>
+<start> tom is my idol. <end>
+<start> wash your feet. <end>
+<start> we study music. <end>
+<start> we'll call you. <end>
+<start> we'll call you. <end>
+<start> where were you? <end>
+<start> where were you? <end>
+<start> why do you ask? <end>
+<start> you have to go. <end>
+<start> you look tired. <end>
+<start> you're kidding! <end>
+<start> a man must work. <end>
+<start> are you at home? <end>
+<start> are you guys ok? <end>
+<start> come home early. <end>
+<start> come if you can. <end>
+<start> congratulations! <end>
+<start> congratulations! <end>
+<start> did he go there? <end>
+<start> did you miss me? <end>
+<start> don't be absurd. <end>
+<start> don't open that. <end>
+<start> everyone smiled. <end>
+<start> everyone waited. <end>
+<start> he came running. <end>
+<start> he can't be ill. <end>
+<start> he has a hat on. <end>
+<start> he's my husband. <end>
+<start> how is everyone? <end>
+<start> how is it going? <end>
+<start> how old are you? <end>
+<start> how rude of you! <end>
+<start> how rude of you! <end>
+<start> i cooked dinner. <end>
+<start> i feel nauseous. <end>
+<start> i go every year. <end>
+<start> i heard a noise. <end>
+<start> i like this one. <end>
+<start> i run every day. <end>
+<start> i saw her again. <end>
+<start> i want a guitar. <end>
+<start> i was assaulted. <end>
+<start> i'm a good cook. <end>
+<start> i'm a good cook. <end>
+<start> i'm going to go. <end>
+<start> i'm lucky today. <end>
+<start> is anybody here? <end>
+<start> is it not black? <end>
+<start> is there a cafe? <end>
+<start> let's fly kites. <end>
+<start> no, i didn't go. <end>
+<start> nobody's around. <end>
+<start> now stop crying. <end>
+<start> people love tom. <end>
+<start> please sit down. <end>
+<start> she is a beauty. <end>
+<start> she talks a lot. <end>
+<start> she talks a lot. <end>
+<start> that isn't fair. <end>
+<start> that's my fault. <end>
+<start> the dog is mine. <end>
+<start> the power's out. <end>
+<start> these are birds. <end>
+<start> this is for you. <end>
+<start> tom loves women. <end>
+<start> tom saw a mouse. <end>
+<start> watch carefully. <end>
+<start> we lack nothing. <end>
+<start> what time is it? <end>
+<start> what time is it? <end>
+<start> what's left now? <end>
+<start> what's your age? <end>
+<start> where's my book? <end>
+<start> you're a person. <end>
+<start> are you a doctor? <end>
+<start> can you teach me? <end>
+<start> choose carefully. <end>
+<start> climb to the top. <end>
+<start> come and join us. <end>
+<start> come sit with us. <end>
+<start> cut the potatoes. <end>
+<start> do you have rice? <end>
+<start> don't make faces. <end>
+<start> don't make noise. <end>
+<start> have a good time. <end>
+<start> have a nice time. <end>
+<start> he has long legs. <end>
+<start> he is her friend. <end>
+<start> he likes oranges. <end>
+<start> he likes oranges. <end>
+<start> he must love you. <end>
+<start> he speaks arabic. <end>
+<start> here is your bag. <end>
+<start> i can't remember. <end>
+<start> i don't know him. <end>
+<start> i have a problem. <end>
+<start> i have to go now. <end>
+<start> i live near here. <end>
+<start> i love my mother. <end>
+<start> i must leave now. <end>
+<start> i'm not very old. <end>
+<start> i'm not very old. <end>
+<start> i'm really tired. <end>
+<start> i'm very thirsty. <end>
+<start> it's april first. <end>
+<start> it's now my turn. <end>
+<start> let me try again. <end>
+<start> life is a riddle. <end>
+<start> nice to meet you. <end>
+<start> no one responded. <end>
+<start> please follow me. <end>
+<start> please sign here. <end>
+<start> she betrayed you. <end>
+<start> she is beautiful. <end>
+<start> sit down, please. <end>
+<start> stop saying that! <end>
+<start> the car is ready. <end>
+<start> this is your dog. <end>
+<start> this is your key. <end>
+<start> this isn't right. <end>
+<start> tom is my friend. <end>
+<start> we went shopping. <end>
+<start> we're going home. <end>
+<start> we're in a hurry. <end>
+<start> what's that bird? <end>
+<start> what's the story? <end>
+<start> what's your name? <end>
+<start> where did you go? <end>
+<start> where is the bar? <end>
+<start> whose turn is it? <end>
+<start> you may be right. <end>
+<start> am i on that list? <end>
+<start> are your eyes bad? <end>
+<start> birds build nests. <end>
+<start> birds build nests. <end>
+<start> boys will be boys. <end>
+<start> can i do anything? <end>
+<start> didn't you go out? <end>
+<start> didn't you go out? <end>
+<start> didn't you go out? <end>
+<start> do you believe me? <end>
+<start> do you believe me? <end>
+<start> do you believe me? <end>
+<start> don't deceive him. <end>
+<start> everyone screamed. <end>
+<start> he began to shout. <end>
+<start> he came to see me. <end>
+<start> he is after a job. <end>
+<start> he is walking now. <end>
+<start> he studied abroad. <end>
+<start> he turned traitor. <end>
+<start> he's already left. <end>
+<start> i can drive a car. <end>
+<start> i cried all night. <end>
+<start> i got very sleepy. <end>
+<start> i have a headache. <end>
+<start> i have a headache. <end>
+<start> i have some money. <end>
+<start> i haven't met him. <end>
+<start> i like old things. <end>
+<start> i listen to music. <end>
+<start> i saw him running. <end>
+<start> i saw him running. <end>
+<start> i truly loved her. <end>
+<start> i work for a bank. <end>
+<start> i'm getting happy. <end>
+<start> i'm not a student. <end>
+<start> i'm not like that. <end>
+<start> i'm really hungry. <end>
+<start> it's not my fault. <end>
+<start> it's starting now. <end>
+<start> life is a mystery. <end>
+<start> my bag was stolen. <end>
+<start> my eyes are tired. <end>
+<start> no one's in sight. <end>
+<start> put your hands up! <end>
+<start> she began to sing. <end>
+<start> she has blue eyes. <end>
+<start> she isn't married. <end>
+<start> tell me the truth. <end>
+<start> that was my fault. <end>
+<start> the earth rotates. <end>
+<start> tom may invite us. <end>
+<start> try it once again. <end>
+<start> try it once again. <end>
+<start> turn on the radio. <end>
+<start> we don't know her. <end>
+<start> we don't know him. <end>
+<start> we have good news. <end>
+<start> we're against war. <end>
+<start> we're against war. <end>
+<start> what is happiness? <end>
+<start> what is happiness? <end>
+<start> what is your name? <end>
+<start> what's the matter? <end>
+<start> when did you meet? <end>
+<start> when did you meet? <end>
+<start> where do you live? <end>
+<start> where do you live? <end>
+<start> where do you live? <end>
+<start> where do you live? <end>
+<start> where do you live? <end>
+<start> where is the book? <end>
+<start> where's the beach? <end>
+<start> who made this pie? <end>
+<start> yes. that's right. <end>
+<start> you are in my way. <end>
+<start> you have to leave. <end>
+<start> are you busy today? <end>
+<start> are you busy today? <end>
+<start> can we have a talk? <end>
+<start> come along with us. <end>
+<start> did you sleep well? <end>
+<start> do you remember me? <end>
+<start> don't give up hope. <end>
+<start> don't throw stones. <end>
+<start> everyone likes her. <end>
+<start> everyone likes him. <end>
+<start> everyone was saved. <end>
+<start> everyone was saved. <end>
+<start> have you gone nuts? <end>
+<start> he breathed deeply. <end>
+<start> he closed his eyes. <end>
+<start> he cried and cried. <end>
+<start> he is a simple man. <end>
+<start> he is sure to come. <end>
+<start> he isn't my cousin. <end>
+<start> he isn't my cousin. <end>
+<start> he waited his turn. <end>
+<start> he works at a bank. <end>
+<start> he's a good person. <end>
+<start> i admit my mistake. <end>
+<start> i can read english. <end>
+<start> i can read english. <end>
+<start> i can't believe it! <end>
+<start> i do what i'm told. <end>
+<start> i do what i'm told. <end>
+<start> i heard him go out. <end>
+<start> i know her address. <end>
+<start> i know his address. <end>
+<start> i know those women. <end>
+<start> i know your father. <end>
+<start> i sort of like him. <end>
+<start> i still don't know. <end>
+<start> i was born in 1960. <end>
+<start> i was born in 1979. <end>
+<start> i was very thirsty. <end>
+<start> i was very thirsty. <end>
+<start> i watch television. <end>
+<start> i worked all night. <end>
+<start> i worked all night. <end>
+<start> i'll see you later. <end>
+<start> i'll see you later. <end>
+<start> i'm a good teacher. <end>
+<start> i'm a good teacher. <end>
+<start> i'm as tall as you. <end>
+<start> i'm coming at once. <end>
+<start> is this book yours? <end>
+<start> it is already dark. <end>
+<start> it looks like snow. <end>
+<start> it started to snow. <end>
+<start> it was my suitcase. <end>
+<start> it was sort of fun. <end>
+<start> it's too expensive. <end>
+<start> it's too expensive. <end>
+<start> it's very hot here. <end>
+<start> let me handle this. <end>
+<start> let's take a train. <end>
+<start> my family is small. <end>
+<start> my toes are frozen. <end>
+<start> no one can help me. <end>
+<start> she is very pretty. <end>
+<start> she smiled happily. <end>
+<start> she's not a doctor. <end>
+<start> that guy annoys me. <end>
+<start> the batter was out. <end>
+<start> the crow flew away. <end>
+<start> the power went out. <end>
+<start> the thief vanished. <end>
+<start> these dogs are big. <end>
+<start> this is mary's dog. <end>
+<start> tom is coming home. <end>
+<start> tom is going there. <end>
+<start> tom lived to be 97. <end>
+<start> was his story true? <end>
+<start> we enjoyed skating. <end>
+<start> we kept on talking. <end>
+<start> we were in a hurry. <end>
+<start> we were very tired. <end>
+<start> we're good friends. <end>
+<start> what a big pumpkin! <end>
+<start> what's the problem? <end>
+<start> when does it begin? <end>
+<start> where are the kids? <end>
+<start> which dog is yours? <end>
+<start> who broke the vase? <end>
+<start> who made this cake? <end>
+<start> who's at the wheel? <end>
+<start> whose book is this? <end>
+<start> you could say that. <end>
+<start> you may use my pen. <end>
+<start> answer my questions. <end>
+<start> are they in the gym? <end>
+<start> can you drive a car? <end>
+<start> can you drive a car? <end>
+<start> could you sign here? <end>
+<start> everybody likes her. <end>
+<start> everybody likes him. <end>
+<start> excuse me, i'm lost. <end>
+<start> he entered the room. <end>
+<start> he entered the room. <end>
+<start> he felt very lonely. <end>
+<start> he lives next to me. <end>
+<start> he looks very tired. <end>
+<start> he seems to be rich. <end>
+<start> he's in a bad state. <end>
+<start> how about the taste? <end>
+<start> how did you make it? <end>
+<start> i am not from india. <end>
+<start> i am reading a book. <end>
+<start> i bet tom was happy. <end>
+<start> i bought an old car. <end>
+<start> i can teach english. <end>
+<start> i continued singing. <end>
+<start> i don't like summer. <end>
+<start> i forgot to ask him. <end>
+<start> i hate taking risks. <end>
+<start> i haven't eaten yet. <end>
+<start> i know both of them. <end>
+<start> i know what that is. <end>
+<start> i like to come here. <end>
+<start> i make €100 a day. <end>
+<start> i tried to tell you. <end>
+<start> i want to marry her. <end>
+<start> i wanted her to win. <end>
+<start> i wish i could help. <end>
+<start> i'd like a city map. <end>
+<start> i'd like to see her. <end>
+<start> i'd like to see her. <end>
+<start> i'll be back at ten. <end>
+<start> i'll bring the wine. <end>
+<start> i'll bring the wine. <end>
+<start> i'll make you happy. <end>
+<start> i've already called. <end>
+<start> i've lost my ticket. <end>
+<start> let's play baseball! <end>
+<start> must i write in ink? <end>
+<start> my family loved tom. <end>
+<start> my money was stolen. <end>
+<start> my sister has a job. <end>
+<start> she kept on working. <end>
+<start> she pulled my shirt. <end>
+<start> that is not a tiger. <end>
+<start> that was my mistake. <end>
+<start> the skies are clear. <end>
+<start> the trees are green. <end>
+<start> these are our books. <end>
+<start> this is what i need. <end>
+<start> tom is pretty crazy. <end>
+<start> tom is sweating now. <end>
+<start> watch your language. <end>
+<start> we are good friends. <end>
+<start> we have a black dog. <end>
+<start> we must pay the tax. <end>
+<start> what did you answer? <end>
+<start> what is in this box? <end>
+<start> what were you doing? <end>
+<start> where are you going? <end>
+<start> where are you going? <end>
+<start> where's the airport? <end>
+<start> which book is yours? <end>
+<start> who is your teacher? <end>
+<start> why didn't you come? <end>
+<start> will you go with us? <end>
+<start> winter is coming on. <end>
+<start> you are at it again. <end>
+<start> you must forgive me. <end>
+<start> you must forgive me. <end>
+<start> you must study hard. <end>
+<start> you're a life saver. <end>
+<start> anything is possible. <end>
+<start> didn't i tell you so? <end>
+<start> do you have a pencil? <end>
+<start> do you jog every day? <end>
+<start> do you jog every day? <end>
+<start> do you jog every day? <end>
+<start> do you live in tokyo? <end>
+<start> do you speak english? <end>
+<start> don't open your book. <end>
+<start> don't worry about me. <end>
+<start> don't worry about us. <end>
+<start> fish live in the sea. <end>
+<start> give me another shot. <end>
+<start> go tell him yourself. <end>
+<start> have you been abroad? <end>
+<start> he got angry with me. <end>
+<start> he has been to india. <end>
+<start> he is angry with you. <end>
+<start> he is in poor health. <end>
+<start> he lent me two books. <end>
+<start> he married for money. <end>
+<start> he saw a pretty girl. <end>
+<start> he spoke about peace. <end>
+<start> he wanted to succeed. <end>
+<start> how's your job going? <end>
+<start> i agree to this plan. <end>
+<start> i am a stranger here. <end>
+<start> i am counting on you. <end>
+<start> i am eating an apple. <end>
+<start> i am eating an apple. <end>
+<start> i don't mind waiting. <end>
+<start> i expect him to come. <end>
+<start> i feel like vomiting. <end>
+<start> i had a little fever. <end>
+<start> i had a little fever. <end>
+<start> i have a few friends. <end>
+<start> i have a stomachache. <end>
+<start> i have back problems. <end>
+<start> i have caught a cold. <end>
+<start> i have lunch at noon. <end>
+<start> i just cut my finger. <end>
+<start> i know tom is sleepy. <end>
+<start> i know why he did it. <end>
+<start> i live in a big city. <end>
+<start> i lost consciousness. <end>
+<start> i lost consciousness. <end>
+<start> i meant it as a joke. <end>
+<start> i meant it as a joke. <end>
+<start> i met mary yesterday. <end>
+<start> i think you're right. <end>
+<start> i want my money back. <end>
+<start> i will come with you. <end>
+<start> i'll admit i'm wrong. <end>
+<start> i'll be back by nine. <end>
+<start> i'll never come back. <end>
+<start> i'm allergic to fish. <end>
+<start> i've injured my foot. <end>
+<start> i've lost my glasses. <end>
+<start> i've lost my glasses. <end>
+<start> i've made a decision. <end>
+<start> is it open on sunday? <end>
+<start> is the phone ringing? <end>
+<start> it didn't rain today. <end>
+<start> it is already eleven. <end>
+<start> it is free of charge. <end>
+<start> it was really boring. <end>
+<start> it's an easy victory. <end>
+<start> it's windy, isn't it? <end>
+<start> let me take you home. <end>
+<start> lincoln died in 1865. <end>
+<start> nobody will help you. <end>
+<start> our marriage is over. <end>
+<start> please do it quickly. <end>
+<start> please shut the door. <end>
+<start> she gave him a watch. <end>
+<start> she wore a red dress. <end>
+<start> she wore a red dress. <end>
+<start> that's his specialty. <end>
+<start> the house is haunted. <end>
+<start> the house was ablaze. <end>
+<start> the man looked at me. <end>
+<start> the sheets feel damp. <end>
+<start> the water pipe burst. <end>
+<start> these books are mine. <end>
+<start> these shoes are hers. <end>
+<start> they went to the zoo. <end>
+<start> this feels like silk. <end>
+<start> this watch is broken. <end>
+<start> time goes by quickly. <end>
+<start> tom had another beer. <end>
+<start> wash your hands well. <end>
+<start> what day is it today? <end>
+<start> what does it contain? <end>
+<start> when did you see her? <end>
+<start> when will you return? <end>
+<start> where is the problem? <end>
+<start> where is the problem? <end>
+<start> where is your father? <end>
+<start> why not come with me? <end>
+<start> will you go by train? <end>
+<start> you can't drink here. <end>
+<start> you can't prove that. <end>
+<start> you look happy today. <end>
+<start> your dog is very big. <end>
+<start> your dog is very fat. <end>
+<start> can i give you a hand? <end>
+<start> can i give you a hand? <end>
+<start> can i use your pencil? <end>
+<start> can the rumor be true? <end>
+<start> can you keep a secret? <end>
+<start> did you see my camera? <end>
+<start> do you believe in god? <end>
+<start> do you know your size? <end>
+<start> do you like this book? <end>
+<start> does he speak english? <end>
+<start> don't be disappointed. <end>
+<start> fat hens lay few eggs. <end>
+<start> has the bell rung yet? <end>
+<start> he accepted our offer. <end>
+<start> he became a policeman. <end>
+<start> he became a policeman. <end>
+<start> he climbed the stairs. <end>
+<start> he deals in furniture. <end>
+<start> he got a lot of money. <end>
+<start> he has a little money. <end>
+<start> he has a lot of money. <end>
+<start> he is a sharp-shooter. <end>
+<start> he is poor, but happy. <end>
+<start> he is tall and strong. <end>
+<start> he knows us very well. <end>
+<start> he looks like a horse. <end>
+<start> he must be over sixty. <end>
+<start> he sang while working. <end>
+<start> he was my dear friend. <end>
+<start> he was sick last week. <end>
+<start> he won the race again. <end>
+<start> how do you feel today? <end>
+<start> i am grateful to them. <end>
+<start> i am tired of my work. <end>
+<start> i bought tom a coffee. <end>
+<start> i can't let you leave. <end>
+<start> i dove into the river. <end>
+<start> i live in boston, too. <end>
+<start> i made him my servant. <end>
+<start> i never liked biology. <end>
+<start> i ran away in a hurry. <end>
+<start> i want to visit korea. <end>
+<start> i was waiting for you. <end>
+<start> i'm on my lunch break. <end>
+<start> i'm too tired to walk. <end>
+<start> i've made my decision. <end>
+<start> is mary your daughter? <end>
+<start> is your watch correct? <end>
+<start> it will snow tomorrow. <end>
+<start> let's start the party. <end>
+<start> make yourself at home. <end>
+<start> marriage is a lottery. <end>
+<start> may i go ahead of you? <end>
+<start> may i go ahead of you? <end>
+<start> may i go ahead of you? <end>
+<start> may comes after april. <end>
+<start> my car is not running. <end>
+<start> my eye has swollen up. <end>
+<start> not all birds can fly. <end>
+<start> please close the door. <end>
+<start> please leave me alone. <end>
+<start> please throw the ball. <end>
+<start> put it where you like. <end>
+<start> put it where you like. <end>
+<start> put it where you like. <end>
+<start> she always works hard. <end>
+<start> she got me a tiny toy. <end>
+<start> she hated her husband. <end>
+<start> she is five years old. <end>
+<start> she lived a long life. <end>
+<start> she's a stubborn girl. <end>
+<start> sit wherever you like. <end>
+<start> tell me what happened. <end>
+<start> the lake is deep here. <end>
+<start> the man lost all hope. <end>
+<start> the station is nearby. <end>
+<start> they hated each other. <end>
+<start> they made fun of mary. <end>
+<start> they missed the train. <end>
+<start> they shouted for help. <end>
+<start> they shouted for help. <end>
+<start> this is an apple, too. <end>
+<start> tom and i are friends. <end>
+<start> tom can't drive a bus. <end>
+<start> tom is still shopping. <end>
+<start> tom never wears a tie. <end>
+<start> tom speaks bad french. <end>
+<start> we accepted his offer. <end>
+<start> we are disturbing him. <end>
+<start> we rested for a while. <end>
+<start> well, i must be going. <end>
+<start> what an exciting game! <end>
+<start> what is this nonsense? <end>
+<start> what're you two doing? <end>
+<start> what're you two doing? <end>
+<start> where is the elevator? <end>
+<start> whose books are these? <end>
+<start> will he come tomorrow? <end>
+<start> will he come tomorrow? <end>
+<start> you didn't understand. <end>
+<start> you reap what you sow. <end>
+<start> you reap what you sow. <end>
+<start> you reap what you sow. <end>
+<start> you reap what you sow. <end>
+<start> you reap what you sow. <end>
+<start> your hair is too long. <end>
+<start> "who is it?" "it's me." <end>
+<start> a fox is a wild animal. <end>
+<start> but don't get me wrong. <end>
+<start> can anyone believe you? <end>
+<start> did you read it at all? <end>
+<start> do you have green eyes? <end>
+<start> do you like this color? <end>
+<start> don't ask me for money. <end>
+<start> don't lose your temper. <end>
+<start> don't make fun of them. <end>
+<start> don't make me slap you. <end>
+<start> don't say such a thing. <end>
+<start> don't start doing that. <end>
+<start> everyone knew the song. <end>
+<start> he can't run very fast. <end>
+<start> he earns a good salary. <end>
+<start> he has three daughters. <end>
+<start> he knocked at the door. <end>
+<start> he learned how to swim. <end>
+<start> he robbed me of my bag. <end>
+<start> he tore the book apart. <end>
+<start> he understands physics. <end>
+<start> he will soon come back. <end>
+<start> i asked him to do that. <end>
+<start> i don't agree with you. <end>
+<start> i don't believe in god. <end>
+<start> i don't want your pity. <end>
+<start> i found the cage empty. <end>
+<start> i go to school on foot. <end>
+<start> i made the woman angry. <end>
+<start> i prefer coffee to tea. <end>
+<start> i seem to have a fever. <end>
+<start> i still don't know yet. <end>
+<start> i wake up at 7 o'clock. <end>
+<start> i want to do it myself. <end>
+<start> i wasn't fired. i quit. <end>
+<start> i wonder what happened. <end>
+<start> i'd like a bloody mary. <end>
+<start> i'll make a phone call. <end>
+<start> i'm at the airport now. <end>
+<start> i'm thinking about you. <end>
+<start> if tom goes, so will i. <end>
+<start> is anyone absent today? <end>
+<start> is anyone absent today? <end>
+<start> is he going to help us? <end>
+<start> is it a recent picture? <end>
+<start> it could've killed tom. <end>
+<start> it is difficult for me. <end>
+<start> it's rather cold today. <end>
+<start> mind your own business! <end>
+<start> my father is very nice. <end>
+<start> my father is very nice. <end>
+<start> my stomach is growling. <end>
+<start> new york is a big city. <end>
+<start> school begins in april. <end>
+<start> school is over at 3:30. <end>
+<start> shall i clean the room? <end>
+<start> she always wears black. <end>
+<start> she can play the piano. <end>
+<start> she has a gentle heart. <end>
+<start> she is a wealthy woman. <end>
+<start> she married a rich man. <end>
+<start> she prattles on and on. <end>
+<start> she showed me her room. <end>
+<start> should i clean my room? <end>
+<start> that is almost correct. <end>
+<start> that was cooked in oil. <end>
+<start> that was cooked in oil. <end>
+<start> that's a good question. <end>
+<start> that's weird, isn't it? <end>
+<start> the gate was left open. <end>
+<start> the girl looked around. <end>
+<start> the knife is not sharp. <end>
+<start> the light doesn't work. <end>
+<start> the sooner, the better. <end>
+<start> they will be very glad. <end>
+<start> this book is very thin. <end>
+<start> this lion is very tame. <end>
+<start> this silk feels smooth. <end>
+<start> tom bought a new house. <end>
+<start> tom started the engine. <end>
+<start> tom studied psychiatry. <end>
+<start> try to do it like that. <end>
+<start> we often make mistakes. <end>
+<start> were you told to do so? <end>
+<start> what do you like to do? <end>
+<start> what do you like to do? <end>
+<start> what time does it open? <end>
+<start> what's the temperature? <end>
+<start> who do you think he is? <end>
+<start> who'd want to kill you? <end>
+<start> why are you stuttering? <end>
+<start> will we arrive in time? <end>
+<start> you had plenty of time. <end>
+<start> you have a good memory. <end>
+<start> you've got to stop tom. <end>
+<start> are there enough chairs? <end>
+<start> are you free on tuesday? <end>
+<start> can i see your passport? <end>
+<start> can you lend me 500 yen? <end>
+<start> can't you speak english? <end>
+<start> do you watch television? <end>
+<start> does milk spoil quickly? <end>
+<start> don't bother us anymore. <end>
+<start> don't bother us anymore. <end>
+<start> don't drink any alcohol. <end>
+<start> don't forget the ticket. <end>
+<start> glass is made from sand. <end>
+<start> he abandoned his family. <end>
+<start> he betrayed his country. <end>
+<start> he catches colds easily. <end>
+<start> he couldn't get the job. <end>
+<start> he decided to go abroad. <end>
+<start> he did not get up early. <end>
+<start> he got lost in the park. <end>
+<start> he is smelling the soup. <end>
+<start> he is used to hard work. <end>
+<start> he likes playing soccer. <end>
+<start> he looked up at the sky. <end>
+<start> he tends to be arrogant. <end>
+<start> he tends to be arrogant. <end>
+<start> he tends to be arrogant. <end>
+<start> he was accused of theft. <end>
+<start> he was more than a king. <end>
+<start> he's always complaining. <end>
+<start> her story can't be true. <end>
+<start> how much time do i have? <end>
+<start> i do not have much time. <end>
+<start> i don't have much money. <end>
+<start> i feel like throwing up. <end>
+<start> i fell in love with her. <end>
+<start> i found the glass empty. <end>
+<start> i have little money now. <end>
+<start> i have no money with me. <end>
+<start> i have to see a dentist. <end>
+<start> i like my job very much. <end>
+<start> i like studying english. <end>
+<start> i might be able to help. <end>
+<start> i really like city life. <end>
+<start> i should speak with tom. <end>
+<start> i wish i could help you. <end>
+<start> i'd rather not meet him. <end>
+<start> i'd rather not meet him. <end>
+<start> i'll give you a present. <end>
+<start> i've quit drinking beer. <end>
+<start> is this what you wanted? <end>
+<start> isn't tom in your class? <end>
+<start> it's almost six o'clock. <end>
+<start> it's almost ten o'clock. <end>
+<start> it's no concern of mine. <end>
+<start> it's not anyone's fault. <end>
+<start> it's really hot outside. <end>
+<start> marriage changes people. <end>
+<start> my sister has long legs. <end>
+<start> shall i get you a chair? <end>
+<start> she bought a dozen eggs. <end>
+<start> she doesn't speak to me. <end>
+<start> she is dressed in white. <end>
+<start> she was late once again. <end>
+<start> show me another example. <end>
+<start> swimming is easy for me. <end>
+<start> take whichever you want. <end>
+<start> that applies to him too. <end>
+<start> that man has many debts. <end>
+<start> the box is made of wood. <end>
+<start> the bus hasn't come yet. <end>
+<start> the house was in flames. <end>
+<start> they adopted the orphan. <end>
+<start> they stood face to face. <end>
+<start> they were afraid of you. <end>
+<start> they were afraid of you. <end>
+<start> this chair is too small. <end>
+<start> this is why i came back. <end>
+<start> this river is beautiful. <end>
+<start> tom sent a note to mary. <end>
+<start> tom tried but he failed. <end>
+<start> tomorrow is my birthday. <end>
+<start> turn your face this way. <end>
+<start> turn your face this way. <end>
+<start> two plus two makes four. <end>
+<start> water is very important. <end>
+<start> we all stood up at once. <end>
+<start> we bought a round table. <end>
+<start> we have no school today. <end>
+<start> we have to go back soon. <end>
+<start> we may not win tomorrow. <end>
+<start> we put sugar in our tea. <end>
+<start> what do you want it for? <end>
+<start> what do you want to see? <end>
+<start> what do you want to see? <end>
+<start> what is his nationality? <end>
+<start> when do you play tennis? <end>
+<start> when it rains, it pours. <end>
+<start> why don't you ever help? <end>
+<start> why don't you ever help? <end>
+<start> will you turn on the tv? <end>
+<start> you shouldn't wait here. <end>
+<start> bad news travels quickly. <end>
+<start> can you keep it a secret? <end>
+<start> cheese is made from milk. <end>
+<start> choose between these two. <end>
+<start> did he tell you anything? <end>
+<start> did you do your homework? <end>
+<start> did you do your homework? <end>
+<start> do you have a pen on you? <end>
+<start> do you have any brothers? <end>
+<start> do you need an ambulance? <end>
+<start> do you see a black horse? <end>
+<start> don't play with that key! <end>
+<start> don't rush into marriage. <end>
+<start> don't you want to go out? <end>
+<start> every house had a garden. <end>
+<start> have you eaten your food? <end>
+<start> he can't be under thirty. <end>
+<start> he cut the envelope open. <end>
+<start> he did not die of cancer. <end>
+<start> he is very fond of music. <end>
+<start> he knows a lot of people. <end>
+<start> he leveled his gun at me. <end>
+<start> he was accused of murder. <end>
+<start> he was then a boy of ten. <end>
+<start> he will not listen to me. <end>
+<start> he's always dissatisfied. <end>
+<start> he's reading a novel now. <end>
+<start> here, please have a seat. <end>
+<start> how long have you waited? <end>
+<start> how much for half a kilo? <end>
+<start> i am able to drive a car. <end>
+<start> i beg to differ with you. <end>
+<start> i can't live without you. <end>
+<start> i can't live without you. <end>
+<start> i can't stand it anymore. <end>
+<start> i can't walk any further. <end>
+<start> i can't walk any further. <end>
+<start> i don't like this jacket. <end>
+<start> i felt like running away. <end>
+<start> i go to school by subway. <end>
+<start> i got lost in the forest. <end>
+<start> i had two cups of coffee. <end>
+<start> i have a heart condition. <end>
+<start> i have to go to the bank. <end>
+<start> i heard someone knocking. <end>
+<start> i like english and music. <end>
+<start> i like playing the piano. <end>
+<start> i need coughing medicine. <end>
+<start> i ran into an old friend. <end>
+<start> i think that he is right. <end>
+<start> i want to hear tom speak. <end>
+<start> i was waiting for a taxi. <end>
+<start> i was waiting for a taxi. <end>
+<start> i will explain it to her. <end>
+<start> i will explain it to him. <end>
+<start> i will have to help them. <end>
+<start> i will never do it again. <end>
+<start> i'd like to get a refund. <end>
+<start> i'll call you back later. <end>
+<start> i'll call you back later. <end>
+<start> i'm against the marriage. <end>
+<start> i'm going to take a bath. <end>
+<start> i've read the first page. <end>
+<start> if you can, come with us. <end>
+<start> iron is harder than gold. <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> is your father a teacher? <end>
+<start> it's a difficult problem. <end>
+<start> it's easy to add 5 to 10. <end>
+<start> it's not healthy for you. <end>
+<start> let me introduce my wife. <end>
+<start> let me know your address. <end>
+<start> my father died of cancer. <end>
+<start> our team isn't very good. <end>
+<start> please wait five minutes. <end>
+<start> she asked us to be quiet. <end>
+<start> she left the baby crying. <end>
+<start> she refused to notice me. <end>
+<start> ten years is a long time. <end>
+<start> the doctor felt my pulse. <end>
+<start> the food is getting cold. <end>
+<start> the food's not ready yet. <end>
+<start> the man committed murder. <end>
+<start> the party was successful. <end>
+<start> their marriage is a sham. <end>
+<start> these are very old books. <end>
+<start> they gathered in the gym. <end>
+<start> they're watching a movie. <end>
+<start> this amount includes tax. <end>
+<start> this house has six rooms. <end>
+<start> this is as large as that. <end>
+<start> this road is very narrow. <end>
+<start> tokyo is a very big city. <end>
+<start> tom busted out of prison. <end>
+<start> tom didn't have any hair. <end>
+<start> tom has never trusted me. <end>
+<start> tom has never trusted me. <end>
+<start> tom is able to swim well. <end>
+<start> tom most probably forgot. <end>
+<start> we had no water to drink. <end>
+<start> we import tea from india. <end>
+<start> we would die without air. <end>
+<start> we've got to talk to tom. <end>
+<start> what are you looking for? <end>
+<start> what did he do yesterday? <end>
+<start> what happened last night? <end>
+<start> what he lacks is courage. <end>
+<start> what school do you go to? <end>
+<start> what time do you go home? <end>
+<start> what time do you go home? <end>
+<start> when are you coming back? <end>
+<start> when did you get married? <end>
+<start> will their marriage work? <end>
+<start> will you please go there? <end>
+<start> yes, i like it very much. <end>
+<start> you call that a marriage? <end>
+<start> you have to wait in line. <end>
+<start> you made me lose my mind. <end>
+<start> you shouldn't be outside. <end>
+<start> you're tired, aren't you? <end>
+<start> a is 5 times as long as b. <end>
+<start> apples were on sale today. <end>
+<start> at least that part's true. <end>
+<start> can you come to the party? <end>
+<start> come to my house at eight. <end>
+<start> did the police arrest tom? <end>
+<start> do you believe in fairies? <end>
+<start> do you believe in fairies? <end>
+<start> do you have a larger size? <end>
+<start> do you want to come along? <end>
+<start> don't leave the door open. <end>
+<start> have you been here before? <end>
+<start> he began to learn english. <end>
+<start> he couldn't run very fast. <end>
+<start> he doesn't understand you. <end>
+<start> he hammered at the window. <end>
+<start> he has many history books. <end>
+<start> he hesitated for a moment. <end>
+<start> he is one of my neighbors. <end>
+<start> he likes his school a lot. <end>
+<start> he makes fun of everybody. <end>
+<start> he taught me how to write. <end>
+<start> he walked along the river. <end>
+<start> he wanted to buy the book. <end>
+<start> he was afraid to go there. <end>
+<start> he was burning with fever. <end>
+<start> he was looking at the sky. <end>
+<start> he was sentenced to death. <end>
+<start> he witnessed the accident. <end>
+<start> he witnessed the accident. <end>
+<start> he's sleeping like a baby. <end>
+<start> his story may not be true. <end>
+<start> how can i meet this quota? <end>
+<start> how many bowls do we have? <end>
+<start> how many cars do you have? <end>
+<start> hunger drove him to steal. <end>
+<start> i am able to read english. <end>
+<start> i am able to read english. <end>
+<start> i bought a book yesterday. <end>
+<start> i can't make it this time. <end>
+<start> i cannot walk any farther. <end>
+<start> i caught a glimpse of her. <end>
+<start> i feel like taking a rest. <end>
+<start> i fixed the car yesterday. <end>
+<start> i found out where she was. <end>
+<start> i get up at six every day. <end>
+<start> i had to return it to tom. <end>
+<start> i have no time to see you. <end>
+<start> i haven't seen tom lately. <end>
+<start> i haven't seen him lately. <end>
+<start> i know all about marriage. <end>
+<start> i know how to drive a car. <end>
+<start> i made a new friend today. <end>
+<start> i met him at the barber's. <end>
+<start> i sold it for ten dollars. <end>
+<start> i still love this bicycle. <end>
+<start> i usually get up at eight. <end>
+<start> i want to see the manager. <end>
+<start> i want to see the manager. <end>
+<start> i want to travel with you. <end>
+<start> i was afraid he might die. <end>
+<start> i wish i had this problem. <end>
+<start> i wish i had this problem. <end>
+<start> i'd like to join the club. <end>
+<start> i'll be there at five p.m. <end>
+<start> i'll bring one more towel. <end>
+<start> i'm busy with my homework. <end>
+<start> i'm disappointed with you. <end>
+<start> i'm glad to see you again. <end>
+<start> i'm interested in history. <end>
+<start> i'm standing in the shade. <end>
+<start> i'm standing in the shade. <end>
+<start> i'm waiting for my mother. <end>
+<start> it depends on the context. <end>
+<start> it's already nine o'clock. <end>
+<start> it's for a friend of mine. <end>
+<start> it's terribly hot in here. <end>
+<start> let's meet this afternoon. <end>
+<start> may i ask a few questions? <end>
+<start> my brother lives in tokyo. <end>
+<start> my father may be sleeping. <end>
+<start> my father stopped smoking. <end>
+<start> my right foot is sleeping. <end>
+<start> my wife really hates cats. <end>
+<start> never speak ill of others. <end>
+<start> one of my bags is missing. <end>
+<start> one of my bags is missing. <end>
+<start> school begins at 8:30 a.m. <end>
+<start> she did it all by herself. <end>
+<start> she has not come here yet. <end>
+<start> she looked at the picture. <end>
+<start> she showed me her new car. <end>
+<start> smog causes plants to die. <end>
+<start> some snakes are poisonous. <end>
+<start> thank you for the present. <end>
+<start> the enemy won't get close. <end>
+<start> the king abused his power. <end>
+<start> the prisoner was released. <end>
+<start> the reason is very simple. <end>
+<start> there is no tv in my room. <end>
+<start> there must be another way. <end>
+<start> these are very big apples. <end>
+<start> they looked at each other. <end>
+<start> this desk is made of wood. <end>
+<start> this is my father's house. <end>
+<start> this is my third marriage. <end>
+<start> today is independence day. <end>
+<start> tom and mary look worried. <end>
+<start> tom couldn't help but cry. <end>
+<start> tom couldn't help but cry. <end>
+<start> tom didn't arrive at work. <end>
+<start> tom is making boiled eggs. <end>
+<start> tom works on sundays, too. <end>
+<start> twenty families live here. <end>
+<start> we all felt sorry for tom. <end>
+<start> we painted the door green. <end>
+<start> we walked around the pond. <end>
+<start> we were worried about you. <end>
+<start> we're here to protect you. <end>
+<start> we're here to protect you. <end>
+<start> we're related by marriage. <end>
+<start> what a lucky person he is! <end>
+<start> what did you do yesterday? <end>
+<start> what do you want me to do? <end>
+<start> what's your favorite food? <end>
+<start> where's the changing room? <end>
+<start> why are you talking to me? <end>
+<start> will you make room for me? <end>
+<start> would you mind if i smoke? <end>
+<start> yesterday was my birthday. <end>
+<start> you had better go at once. <end>
+<start> you keep a dog, don't you? <end>
+<start> a crow is as black as coal. <end>
+<start> a man appeared at the door. <end>
+<start> come see me again tomorrow. <end>
+<start> do you have an appointment? <end>
+<start> do you know tom personally? <end>
+<start> do you know tom personally? <end>
+<start> don't fail to call me back. <end>
+<start> don't say things like that. <end>
+<start> each of them has a bicycle. <end>
+<start> have you done anything yet? <end>
+<start> have you ever seen a koala? <end>
+<start> he asked me for some money. <end>
+<start> he became a police officer. <end>
+<start> he believes whatever i say. <end>
+<start> he decided to quit smoking. <end>
+<start> he did the work on his own. <end>
+<start> he is engaged to my sister. <end>
+<start> he occasionally visited me. <end>
+<start> he saw a dog near the door. <end>
+<start> he usually comes home late. <end>
+<start> he's always late for class. <end>
+<start> his opinions are worthless. <end>
+<start> honesty is the best policy. <end>
+<start> how long has she been sick? <end>
+<start> how many books do you have? <end>
+<start> how many chairs do we have? <end>
+<start> i actually have to do that. <end>
+<start> i am interested in english. <end>
+<start> i arrived later than usual. <end>
+<start> i believe whatever he says. <end>
+<start> i bought two dozen pencils. <end>
+<start> i can't take any more work. <end>
+<start> i cover twenty miles a day. <end>
+<start> i don't believe him at all. <end>
+<start> i don't care what they say. <end>
+<start> i don't know what to study. <end>
+<start> i go home right after work. <end>
+<start> i had to decline his offer. <end>
+<start> i need the following items. <end>
+<start> i need the following items. <end>
+<start> i need the following items. <end>
+<start> i need to go get some eggs. <end>
+<start> i sat between tom and john. <end>
+<start> i was born on june 4, 1974. <end>
+<start> i'd like a map of the city. <end>
+<start> i'm a good-for-nothing bum. <end>
+<start> i'm looking for an old man. <end>
+<start> is the mouse dead or alive? <end>
+<start> it hardly ever rains there. <end>
+<start> it is said that he is sick. <end>
+<start> it seems interesting to me. <end>
+<start> it seems interesting to me. <end>
+<start> it's almost twelve o'clock. <end>
+<start> it's raining cats and dogs. <end>
+<start> it's raining cats and dogs. <end>
+<start> it's the same for everyone. <end>
+<start> maybe tom doesn't love you. <end>
+<start> my aunt brought me flowers. <end>
+<start> our train stopped suddenly. <end>
+<start> place it wherever you like. <end>
+<start> she forgot to feed her dog. <end>
+<start> she has long arms and legs. <end>
+<start> she is in bed with a fever. <end>
+<start> she knew the story already. <end>
+<start> she likes her school a lot. <end>
+<start> she plays tennis very well. <end>
+<start> she suddenly became famous. <end>
+<start> she was crying in her room. <end>
+<start> take good care of yourself. <end>
+<start> that's really a great idea. <end>
+<start> the box he found was empty. <end>
+<start> the bride suddenly laughed. <end>
+<start> the man hit me on the head. <end>
+<start> the medicine tastes bitter. <end>
+<start> the mud clung to his shoes. <end>
+<start> the novel is very exciting. <end>
+<start> the paint hasn't dried yet. <end>
+<start> the rain continued all day. <end>
+<start> the water is not drinkable. <end>
+<start> there is a bag on the desk. <end>
+<start> they have an open marriage. <end>
+<start> this car was made in japan. <end>
+<start> this is the monsoon season. <end>
+<start> this word comes from greek. <end>
+<start> tom and i'll both be there. <end>
+<start> tom claimed responsibility. <end>
+<start> tom lives with his friends. <end>
+<start> tom really needs your help. <end>
+<start> tom really needs your help. <end>
+<start> tom wants to do that alone. <end>
+<start> tom wants to do that alone. <end>
+<start> tom, i want to talk to you. <end>
+<start> turn off the light, please. <end>
+<start> turn off the light, please. <end>
+<start> we all laughed at his joke. <end>
+<start> we celebrated his birthday. <end>
+<start> we chose tom to be captain. <end>
+<start> we did everything manually. <end>
+<start> we don't know where we are. <end>
+<start> we should keep our promise. <end>
+<start> we've got that figured out. <end>
+<start> what i said hurt his pride. <end>
+<start> what do you call this bird? <end>
+<start> what happened to our order? <end>
+<start> what's your brother's name? <end>
+<start> where did all the bread go? <end>
+<start> why don't you listen to me? <end>
+<start> why have you shut the door? <end>
+<start> will you turn on the light? <end>
+<start> you are always complaining. <end>
+<start> you are on the wrong train. <end>
+<start> you aren't coming, are you? <end>
+<start> you saved my marriage, tom. <end>
+<start> you're not coming, are you? <end>
+<start> a day has twenty-four hours. <end>
+<start> are you for or against this? <end>
+<start> at last, we got to the lake. <end>
+<start> bring your sister next time. <end>
+<start> can you teach me how to fly? <end>
+<start> canada is larger than japan. <end>
+<start> could you speak more slowly? <end>
+<start> do you have any soft drinks? <end>
+<start> do you want to go somewhere? <end>
+<start> do you want to go somewhere? <end>
+<start> everyone felt sorry for tom. <end>
+<start> everyone speaks well of him. <end>
+<start> france is in western europe. <end>
+<start> france is in western europe. <end>
+<start> he closed the door suddenly. <end>
+<start> he could not breathe deeply. <end>
+<start> he doesn't know how to swim. <end>
+<start> he explained the rule to me. <end>
+<start> he is digging his own grave. <end>
+<start> he plays baseball every day. <end>
+<start> he prefers french to german. <end>
+<start> he read this book yesterday. <end>
+<start> he repeated his name slowly. <end>
+<start> he treats me like his slave. <end>
+<start> he went there instead of me. <end>
+<start> his birthday is august 21st. <end>
+<start> how long will you stay here? <end>
+<start> i accompanied her on a walk. <end>
+<start> i believe you like your job. <end>
+<start> i didn't go out last sunday. <end>
+<start> i don't know if he knows it. <end>
+<start> i don't know what tom knows. <end>
+<start> i don't know what they know. <end>
+<start> i explained the rule to him. <end>
+<start> i gave him what money i had. <end>
+<start> i had never seen him before. <end>
+<start> i have just cleaned my room. <end>
+<start> i have seen her three times. <end>
+<start> i have to answer his letter. <end>
+<start> i knew you would understand. <end>
+<start> i knew you would understand. <end>
+<start> i met your father yesterday. <end>
+<start> i prefer walking to cycling. <end>
+<start> i saw him crossing the road. <end>
+<start> i will call on him tomorrow. <end>
+<start> i'll be on duty this sunday. <end>
+<start> i'm more beautiful than you. <end>
+<start> i'm more beautiful than you. <end>
+<start> i'm sorry, my father is out. <end>
+<start> insert it wherever you like. <end>
+<start> iron is a very useful metal. <end>
+<start> is spanish spoken in mexico? <end>
+<start> is it about ten million yen? <end>
+<start> is it hard to speak english? <end>
+<start> it is a sheer waste of time. <end>
+<start> it was easy for me to do so. <end>
+<start> it was too difficult for me. <end>
+<start> it's like a dream come true. <end>
+<start> let's cut down our expenses. <end>
+<start> mary loves going to the spa. <end>
+<start> my jeans shrank in the wash. <end>
+<start> nine players make up a team. <end>
+<start> no answer is also an answer. <end>
+<start> no one can move the big box. <end>
+<start> nobody answered my question. <end>
+<start> nobody else offered to help. <end>
+<start> now i understand everything. <end>
+<start> now i understand everything. <end>
+<start> please give me a cup of tea. <end>
+<start> please speak in a low voice. <end>
+<start> please speak in a low voice. <end>
+<start> see what's going on outside. <end>
+<start> she allowed him to go alone. <end>
+<start> she declined the invitation. <end>
+<start> she dialed the wrong number. <end>
+<start> she said that she was happy. <end>
+<start> she saved a hundred dollars. <end>
+<start> she was robbed of her purse. <end>
+<start> she wears her hair in a bun. <end>
+<start> smoking is not allowed here. <end>
+<start> soldiers are used to danger. <end>
+<start> someone knocked on the door. <end>
+<start> spanish is spoken in mexico. <end>
+<start> speaking english isn't easy. <end>
+<start> stand still and keep silent. <end>
+<start> take off your socks, please. <end>
+<start> ten houses were burned down. <end>
+<start> thank you for the other day. <end>
+<start> thank you very much, doctor. <end>
+<start> that town is two miles away. <end>
+<start> that town is two miles away. <end>
+<start> that's no business of yours. <end>
+<start> the hot water isn't running. <end>
+<start> the room smelled of tobacco. <end>
+<start> the store is not open today. <end>
+<start> the store is not open today. <end>
+<start> there is a book on the desk. <end>
+<start> they are both good teachers. <end>
+<start> this house has eleven rooms. <end>
+<start> this must be a real diamond. <end>
+<start> this song reminds me of tom. <end>
+<start> tom can be awfully stubborn. <end>
+<start> tom handed the list to mary. <end>
+<start> tom handed the list to mary. <end>
+<start> tom is a master manipulator. <end>
+<start> tom isn't able to drive yet. <end>
+<start> tom saved her from the fire. <end>
+<start> tom's wedding is in october. <end>
+<start> we drink our tea with sugar. <end>
+<start> we drink our tea with sugar. <end>
+<start> we really enjoyed ourselves. <end>
+<start> we were next-door neighbors. <end>
+<start> what have you come here for? <end>
+<start> what have you come here for? <end>
+<start> what should we tell tom now? <end>
+<start> where is the south terminal? <end>
+<start> where would you like to sit? <end>
+<start> why don't you come visit us? <end>
+<start> would you like to go abroad? <end>
+<start> you look nice in that dress. <end>
+<start> your marriage is in trouble. <end>
+<start> always keep your office tidy. <end>
+<start> are they japanese or chinese? <end>
+<start> are you meeting someone here? <end>
+<start> brush your teeth after meals. <end>
+<start> brush your teeth after meals. <end>
+<start> correct the underlined words. <end>
+<start> do you have any tickets left? <end>
+<start> do you have to make a speech? <end>
+<start> do you know what he has done? <end>
+<start> don't lean against this wall. <end>
+<start> don't put that in your mouth. <end>
+<start> english is spoken in america. <end>
+<start> football is my favorite game. <end>
+<start> have you ever been to africa? <end>
+<start> have you ever been to africa? <end>
+<start> have you ever been to canada? <end>
+<start> have you ever failed an exam? <end>
+<start> have you ever failed an exam? <end>
+<start> have you ever failed an exam? <end>
+<start> have you ever failed an exam? <end>
+<start> have you ever failed an exam? <end>
+<start> have you ever failed an exam? <end>
+<start> have you ever written a book? <end>
+<start> have your roses come out yet? <end>
+<start> he came to see you yesterday. <end>
+<start> he changed schools last year. <end>
+<start> he doesn't have long to live. <end>
+<start> he eats lunch at a cafeteria. <end>
+<start> he is good at playing tennis. <end>
+<start> he pulled his son by the ear. <end>
+<start> he set fire to his own house. <end>
+<start> he wants these shirts washed. <end>
+<start> he wishes to become a doctor. <end>
+<start> he's out of town on business. <end>
+<start> his clothes always smell bad. <end>
+<start> his long speech bored us all. <end>
+<start> his memory will live forever. <end>
+<start> how did you come to know her? <end>
+<start> i advise you to stop smoking. <end>
+<start> i advise you to stop smoking. <end>
+<start> i agree with you to a degree. <end>
+<start> i am pleased with the result. <end>
+<start> i bought two bottles of milk. <end>
+<start> i can't allow you to do that. <end>
+<start> i can't believe tom has gone. <end>
+<start> i can't really talk about it. <end>
+<start> i didn't try to kill anybody. <end>
+<start> i didn't want this to happen. <end>
+<start> i don't feel like eating now. <end>
+<start> i don't like to drink coffee. <end>
+<start> i followed the deer's tracks. <end>
+<start> i gave up smoking for a year. <end>
+<start> i had to give it back to tom. <end>
+<start> i have a bad pain in my back. <end>
+<start> i have no need to lie to tom. <end>
+<start> i informed her of my success. <end>
+<start> i like both science and math. <end>
+<start> i mentioned your name to him. <end>
+<start> i really don't need any help. <end>
+<start> i want to try riding a horse. <end>
+<start> i wanted tom to study harder. <end>
+<start> i was laughed at by everyone. <end>
+<start> i went there dozens of times. <end>
+<start> i worked on the farm all day. <end>
+<start> i'm anxious about his safety. <end>
+<start> i'm catching the 11:00 train. <end>
+<start> i'm not that surprised by it. <end>
+<start> it appears that he is honest. <end>
+<start> it was her fate to die young. <end>
+<start> it's an answer to her letter. <end>
+<start> it's no use arguing with him. <end>
+<start> keep down, or you'll be shot. <end>
+<start> marriage is a serious matter. <end>
+<start> marriages are made in heaven. <end>
+<start> most people like watching tv. <end>
+<start> my brother has a good memory. <end>
+<start> my father has just come home. <end>
+<start> my grandmother speaks slowly. <end>
+<start> my hobby is collecting coins. <end>
+<start> my telephone is out of order. <end>
+<start> now they have three children. <end>
+<start> one language is never enough. <end>
+<start> please make yourself at home. <end>
+<start> please make yourself at home. <end>
+<start> please show me your notebook. <end>
+<start> please wait for five minutes. <end>
+<start> say which one you would like. <end>
+<start> she died yesterday afternoon. <end>
+<start> she will be back before long. <end>
+<start> stop beating around the bush. <end>
+<start> tea is widely grown in india. <end>
+<start> that wouldn't be fair to tom. <end>
+<start> that's because you're a girl. <end>
+<start> the apple has begun to decay. <end>
+<start> the capital of italy is rome. <end>
+<start> the car hit a telephone pole. <end>
+<start> the cliff is almost vertical. <end>
+<start> the girl did nothing but cry. <end>
+<start> the horse is a useful animal. <end>
+<start> the king crushed his enemies. <end>
+<start> the monkey climbed up a tree. <end>
+<start> the population is increasing. <end>
+<start> the population is increasing. <end>
+<start> the ship set sail for bombay. <end>
+<start> the train ran off the tracks. <end>
+<start> there is a desk in this room. <end>
+<start> there's a cat under the desk. <end>
+<start> they abandoned their country. <end>
+<start> they are talking about music. <end>
+<start> they resolved to work harder. <end>
+<start> tom doesn't want to exercise. <end>
+<start> tom has a house in australia. <end>
+<start> tom is organizing this event. <end>
+<start> tom promised he would change. <end>
+<start> tom wants to leave the house. <end>
+<start> tom's fever is getting worse. <end>
+<start> wash your hands before meals. <end>
+<start> we should love our neighbors. <end>
+<start> what time do you go to sleep? <end>
+<start> when are you going to europe? <end>
+<start> when did the accident happen? <end>
+<start> when did the accident happen? <end>
+<start> won't you join us for dinner? <end>
+<start> you can't park your car here. <end>
+<start> you don't look too confident. <end>
+<start> you must send for the doctor. <end>
+<start> you should've come yesterday. <end>
+<start> you should've seen the movie. <end>
+<start> are you interested in flowers? <end>
+<start> can you teach me how to steal? <end>
+<start> could i please use your phone? <end>
+<start> do you live with your parents? <end>
+<start> don't go back on your promise. <end>
+<start> excuse me, is this seat taken? <end>
+<start> few people live on the island. <end>
+<start> go and play with your friends. <end>
+<start> half of the apples are rotten. <end>
+<start> he concealed the fact from me. <end>
+<start> he did it as he had been told. <end>
+<start> he is accustomed to hard work. <end>
+<start> he looked into the boy's eyes. <end>
+<start> he made many costly purchases. <end>
+<start> he spread butter on the bread. <end>
+<start> he took advantage of my youth. <end>
+<start> he took advantage of my youth. <end>
+<start> he was walking toward the sea. <end>
+<start> he went to new york on monday. <end>
+<start> he will return within 3 hours. <end>
+<start> how about going to the movies? <end>
+<start> how long have you been abroad? <end>
+<start> how long have you been abroad? <end>
+<start> how was the weather yesterday? <end>
+<start> i accompanied him on the trip. <end>
+<start> i am sorry if i disturbed you. <end>
+<start> i can't bear the sight of him. <end>
+<start> i can't put up with this cold. <end>
+<start> i don't go to work on sundays. <end>
+<start> i don't know if she will come. <end>
+<start> i don't think it's reasonable. <end>
+<start> i don't watch much basketball. <end>
+<start> i felt that i should help her. <end>
+<start> i have no idea how he escaped. <end>
+<start> i have to put the baby to bed. <end>
+<start> i hope that it rains tomorrow. <end>
+<start> i take a bath every other day. <end>
+<start> i was caught in a traffic jam. <end>
+<start> i was caught in a traffic jam. <end>
+<start> i was ready do that all alone. <end>
+<start> i will be pleased to help you. <end>
+<start> i will go to america tomorrow. <end>
+<start> i wouldn't do that to anybody. <end>
+<start> i wouldn't do that to anybody. <end>
+<start> i'm sure i've seen him before. <end>
+<start> i'm thinking of changing jobs. <end>
+<start> i'm used to working all night. <end>
+<start> i'm used to working all night. <end>
+<start> it's four o'clock by my watch. <end>
+<start> let's see what you have there. <end>
+<start> man can't live without dreams. <end>
+<start> our team lost the first match. <end>
+<start> playing tennis is easy for me. <end>
+<start> please feed the dog every day. <end>
+<start> please turn on the television. <end>
+<start> school begins at eight-thirty. <end>
+<start> she forgot to mail the letter. <end>
+<start> she forgot to mail the letter. <end>
+<start> she is not afraid of anything. <end>
+<start> she is not afraid of anything. <end>
+<start> she thought for a few minutes. <end>
+<start> sugar dissolves in hot coffee. <end>
+<start> sugar dissolves in hot coffee. <end>
+<start> the flowers have all withered. <end>
+<start> the king governed the country. <end>
+<start> the patient breathed his last. <end>
+<start> the vase was broken to pieces. <end>
+<start> the war is going in our favor. <end>
+<start> there is no future in his job. <end>
+<start> they consider him intelligent. <end>
+<start> they have no house to live in. <end>
+<start> they must have made a mistake. <end>
+<start> they're going to do something. <end>
+<start> this box contains five apples. <end>
+<start> this problem is hard to solve. <end>
+<start> this river is one mile across. <end>
+<start> this rule applies to you, too. <end>
+<start> this school has many students. <end>
+<start> today is my sister's birthday. <end>
+<start> today is my sister's birthday. <end>
+<start> tom couldn't run away from me. <end>
+<start> tom has already been forgiven. <end>
+<start> tom is a first-rate scientist. <end>
+<start> tom is the only canadian here. <end>
+<start> tom will be back this evening. <end>
+<start> was this an arranged marriage? <end>
+<start> we were surprised at the news. <end>
+<start> well, what're you waiting for? <end>
+<start> what is done cannot be undone. <end>
+<start> what is done cannot be undone. <end>
+<start> what kind of work will you do? <end>
+<start> what's your home phone number? <end>
+<start> when do you usually go to bed? <end>
+<start> who was the letter written to? <end>
+<start> you quit your job, didn't you? <end>
+<start> you quit your job, didn't you? <end>
+<start> your team is better than ours. <end>
+<start> "what time is it?" "it's 3:20." <end>
+<start> a fire broke out near my house. <end>
+<start> are you going to ask me or not? <end>
+<start> believe it or not, that's true. <end>
+<start> both he and his wife have cars. <end>
+<start> both of my sisters are married. <end>
+<start> business is so slow these days. <end>
+<start> can i have the key now, please? <end>
+<start> dad is shaving in the bathroom. <end>
+<start> did he come by bus or by train? <end>
+<start> do you have a room of your own? <end>
+<start> do you have one that's cheaper? <end>
+<start> do you know how to drive a car? <end>
+<start> do you know how to drive a car? <end>
+<start> do you know how to drive a car? <end>
+<start> don't you have something to do? <end>
+<start> excuse me, but can you help me? <end>
+<start> few people know about the plan. <end>
+<start> fighting won't settle anything. <end>
+<start> flying a kite can be dangerous. <end>
+<start> give me your attention, please. <end>
+<start> he has blue eyes and fair hair. <end>
+<start> he is anxious about the result. <end>
+<start> he took a picture of the koala. <end>
+<start> he walks his dog every morning. <end>
+<start> his absence was due to illness. <end>
+<start> his behavior is very odd today. <end>
+<start> how do you interpret this poem? <end>
+<start> how do you interpret this poem? <end>
+<start> how do you like your eggs done? <end>
+<start> i am thinking of changing jobs. <end>
+<start> i answered all tom's questions. <end>
+<start> i can't live that kind of life. <end>
+<start> i did it the way he told me to. <end>
+<start> i don't know when he will come. <end>
+<start> i have a bone to pick with you. <end>
+<start> i left the keys with my wallet. <end>
+<start> i motioned for her to sit down. <end>
+<start> i must have left it on the bus. <end>
+<start> i take a bath almost every day. <end>
+<start> i want to have a cup of coffee. <end>
+<start> i want to say thank you to tom. <end>
+<start> i want to say thank you to tom. <end>
+<start> i will give you a large folder. <end>
+<start> i'm afraid that tom might come. <end>
+<start> i'm going to meet him tomorrow. <end>
+<start> i'm nothing but a poor peasant. <end>
+<start> i've never met such a kind man. <end>
+<start> is it possible to borrow money? <end>
+<start> it doesn't matter what you say. <end>
+<start> it is no use worrying about it. <end>
+<start> it isn't easy, but it's doable. <end>
+<start> it took me a while to find tom. <end>
+<start> let's meet here again tomorrow. <end>
+<start> let's take a rest in the shade. <end>
+<start> marriage frightens some people. <end>
+<start> mary is interested in politics. <end>
+<start> may i leave this book with you? <end>
+<start> my hobby is playing the guitar. <end>
+<start> physics is my favorite subject. <end>
+<start> please speak in a louder voice. <end>
+<start> read as many books as possible. <end>
+<start> remove your shirt and lie down. <end>
+<start> she always tries something new. <end>
+<start> she cooked us a wonderful meal. <end>
+<start> she helped me pack my suitcase. <end>
+<start> she is a woman of great beauty. <end>
+<start> she is always dressed in black. <end>
+<start> she is appearing on tv tonight. <end>
+<start> she warned him not to go alone. <end>
+<start> she's a beauty from a distance. <end>
+<start> someone has cut my kite string. <end>
+<start> such a thing occurs frequently. <end>
+<start> the bird on the roof is a crow. <end>
+<start> the car raised a cloud of dust. <end>
+<start> the children were flying kites. <end>
+<start> the deer was running by itself. <end>
+<start> the dog kept barking all night. <end>
+<start> the earth moves around the sun. <end>
+<start> the investigation is under way. <end>
+<start> the men went hunting for lions. <end>
+<start> the plane crash took 200 lives. <end>
+<start> the plane will arrive at three. <end>
+<start> the shop carried leather goods. <end>
+<start> their wedding will be tomorrow. <end>
+<start> there are no towels in room 15. <end>
+<start> there used to be a church here. <end>
+<start> these shoes are too big for me. <end>
+<start> they went on talking for hours. <end>
+<start> they went out of sight at last. <end>
+<start> this is a picture of my sister. <end>
+<start> this is mine, and that's yours. <end>
+<start> this train is bound for boston. <end>
+<start> tom couldn't tell where he was. <end>
+<start> tom forgot his coat downstairs. <end>
+<start> tom has graduated from college. <end>
+<start> tom used to tell me everything. <end>
+<start> tom wants to go somewhere else. <end>
+<start> tom was forced to quit his job. <end>
+<start> we are anxious for world peace. <end>
+<start> we are sorry we can't help you. <end>
+<start> we're all going to die someday. <end>
+<start> what kind of juice do you want? <end>
+<start> what kind of juice do you want? <end>
+<start> what would you like for supper? <end>
+<start> who is the author of the novel? <end>
+<start> who's the author of this story? <end>
+<start> why were you late this morning? <end>
+<start> won't you come to dine with us? <end>
+<start> you may take anything you like. <end>
+<start> you must be back by 10 o'clock. <end>
+<start> you owe me an apology for that. <end>
+<start> you should have kept it secret. <end>
+<start> you should have listened to me. <end>
+<start> a good idea suddenly struck her. <end>
+<start> all the students look up to him. <end>
+<start> are you the owner of this house? <end>
+<start> australia exports a lot of wool. <end>
+<start> china is much bigger than japan. <end>
+<start> china is much larger than japan. <end>
+<start> do you think that fish can hear? <end>
+<start> english is the world's language. <end>
+<start> english is the world's language. <end>
+<start> even children can understand it. <end>
+<start> everything is all right at home. <end>
+<start> finish this as soon as possible. <end>
+<start> finish this as soon as possible. <end>
+<start> fresh vegetables promote health. <end>
+<start> fresh vegetables promote health. <end>
+<start> he is afraid of making mistakes. <end>
+<start> he looked back and smiled at me. <end>
+<start> he was buried in this graveyard. <end>
+<start> he was buried in this graveyard. <end>
+<start> hollywood marriages rarely last. <end>
+<start> i bet ten dollars on that horse. <end>
+<start> i couldn't tell what tom wanted. <end>
+<start> i have some stuff to do at home. <end>
+<start> i hope he won't be disappointed. <end>
+<start> i remember when i first saw you. <end>
+<start> i wake him at six every morning. <end>
+<start> i want you to keep your promise. <end>
+<start> i will go there in place of you. <end>
+<start> i won't be helping tom tomorrow. <end>
+<start> i won't be helping tom tomorrow. <end>
+<start> i would like to meet his father. <end>
+<start> i'm going to tell you something. <end>
+<start> i'm going to tell you something. <end>
+<start> i've read this book three times. <end>
+<start> is tom going to the supermarket? <end>
+<start> it is very cold today, isn't it? <end>
+<start> it isn't raining much this year. <end>
+<start> it was clear that tom was lying. <end>
+<start> it's not easy to memorize dates. <end>
+<start> let me know as soon as you know. <end>
+<start> may i see your passport, please? <end>
+<start> my father hates the summer heat. <end>
+<start> my watch isn't working properly. <end>
+<start> perhaps he will never be famous. <end>
+<start> please give me a glass of water. <end>
+<start> please wait here until he comes. <end>
+<start> she bought two pounds of butter. <end>
+<start> she gazed at me for a long time. <end>
+<start> she got off at the next station. <end>
+<start> she left the table after dinner. <end>
+<start> she lives in an apartment alone. <end>
+<start> she saved money for a rainy day. <end>
+<start> she tried in vain to please him. <end>
+<start> shouldn't we be doing something? <end>
+<start> swimming here is very dangerous. <end>
+<start> tell whoever comes that i'm out. <end>
+<start> the boy ran away when he saw me. <end>
+<start> the clock has just struck three. <end>
+<start> the house is said to be haunted. <end>
+<start> the kite got caught in the tree. <end>
+<start> the president suddenly resigned. <end>
+<start> the rumor turned out to be true. <end>
+<start> the train came to a smooth stop. <end>
+<start> the water was cut off yesterday. <end>
+<start> there are few, if any, such men. <end>
+<start> there is always something to do. <end>
+<start> they abandoned the sinking ship. <end>
+<start> they abandoned the sinking ship. <end>
+<start> they are discussing the problem. <end>
+<start> this restaurant's too expensive. <end>
+<start> to what degree can we trust him? <end>
+<start> tom is strict with his children. <end>
+<start> tom marked the route on the map. <end>
+<start> tom stood there, saying nothing. <end>
+<start> tom treats mary like a princess. <end>
+<start> try to jump as high as possible. <end>
+<start> two crows are flying in the sky. <end>
+<start> unless it rains, i will go, too. <end>
+<start> we can hear the ocean from here. <end>
+<start> we have eaten there three times. <end>
+<start> we hurried to the train station. <end>
+<start> we'll cross the river in a boat. <end>
+<start> what did you do with my baggage? <end>
+<start> what is the population of india? <end>
+<start> what is the population of india? <end>
+<start> what the newspapers say is true. <end>
+<start> who's to blame for the accident? <end>
+<start> why didn't you go to the office? <end>
+<start> will you turn on the television? <end>
+<start> wipe your hands with this towel. <end>
+<start> would you like to dance with me? <end>
+<start> would you like to dance with me? <end>
+<start> you should conform to the rules. <end>
+<start> you're lucky tom is your friend. <end>
+<start> your bicycle is similar to mine. <end>
+<start> "let's play tennis." "yes let's." <end>
+<start> a rope was thrown into the water. <end>
+<start> do you go there by bus or by car? <end>
+<start> do you have brothers and sisters? <end>
+<start> don't worry. you can count on me. <end>
+<start> he called me up almost every day. <end>
+<start> he cannot answer their questions. <end>
+<start> he explained his plans in detail. <end>
+<start> he has his hair cut once a month. <end>
+<start> he hasn't written the letter yet. <end>
+<start> he may be rich, but he is stingy. <end>
+<start> he pressed me for a prompt reply. <end>
+<start> he reads the paper every morning. <end>
+<start> he was killed by a single bullet. <end>
+<start> he weighed the stone in his hand. <end>
+<start> he went to india by way of japan. <end>
+<start> how old might his grandfather be? <end>
+<start> hurry up, or you'll miss the bus. <end>
+<start> i am ashamed of having been lazy. <end>
+<start> i didn't know what to say to him. <end>
+<start> i don't eat the core of an apple. <end>
+<start> i don't know how, but tom did it. <end>
+<start> i don't know how, but you did it. <end>
+<start> i had a strange dream last night. <end>
+<start> i had to help with the housework. <end>
+<start> i have an important call to make. <end>
+<start> i have no place to sleep tonight. <end>
+<start> i know nothing whatever about it. <end>
+<start> i know that it's not a good idea. <end>
+<start> i should've stayed away from tom. <end>
+<start> i think the train will come soon. <end>
+<start> i want to go to america some day. <end>
+<start> i want to study abroad next year. <end>
+<start> i was taking a bath when he came. <end>
+<start> i went there because i wanted to. <end>
+<start> i wrote a love letter last night. <end>
+<start> i'd like to have a word with you. <end>
+<start> i'll come pick it up next monday. <end>
+<start> i'm looking for a small suitcase. <end>
+<start> i'm tired of watching television. <end>
+<start> is it always a sin to tell a lie? <end>
+<start> is there anywhere you want to go? <end>
+<start> it is expensive to live in japan. <end>
+<start> it is no use asking me for money. <end>
+<start> it looks like you are from india. <end>
+<start> it seems to me that you're wrong. <end>
+<start> it won't take long to do the job. <end>
+<start> keep children away from medicine. <end>
+<start> my boss made me work last sunday. <end>
+<start> my father's hair has grown white. <end>
+<start> my hobby is visiting old temples. <end>
+<start> oh, no! we're running out of gas. <end>
+<start> our class consists of fifty boys. <end>
+<start> our class consists of fifty boys. <end>
+<start> our meeting was quite accidental. <end>
+<start> please pardon me for coming late. <end>
+<start> school begins at half past eight. <end>
+<start> she asked him to raise the funds. <end>
+<start> she didn't give me my money back. <end>
+<start> she gladly accepted his proposal. <end>
+<start> she is poor, but she looks happy. <end>
+<start> she is too young to go to school. <end>
+<start> she is two years younger than me. <end>
+<start> she remained single all her life. <end>
+<start> she reproached me for being lazy. <end>
+<start> someone robbed mary of her money. <end>
+<start> stamps aren't sold in this store. <end>
+<start> summer is the season i like best. <end>
+<start> that box is bigger than this one. <end>
+<start> the boy stripped off his clothes. <end>
+<start> the conference will end tomorrow. <end>
+<start> the girl was aware of the danger. <end>
+<start> the history class starts at nine. <end>
+<start> the rumor is true to some extent. <end>
+<start> the shooting started around noon. <end>
+<start> the telephone rang several times. <end>
+<start> the top of that mountain is flat. <end>
+<start> their marriage was falling apart. <end>
+<start> there was a strong wind that day. <end>
+<start> these trees were planted by them. <end>
+<start> they gave us very little trouble. <end>
+<start> they were scolded by the teacher. <end>
+<start> they will get married next month. <end>
+<start> this book contains many pictures. <end>
+<start> this book is older than that one. <end>
+<start> this is what i found in the cave. <end>
+<start> this tie doesn't go with my suit. <end>
+<start> tom has a strange way of talking. <end>
+<start> tom has a strange way of talking. <end>
+<start> tom is leaving in thirty minutes. <end>
+<start> tom is sorely lacking in empathy. <end>
+<start> tom talks a lot about his father. <end>
+<start> vegetables have gone up in price. <end>
+<start> we stayed at a hotel by the lake. <end>
+<start> we went for a walk in the forest. <end>
+<start> what do you do in your free time? <end>
+<start> what's the worst that can happen? <end>
+<start> when do you usually get off work? <end>
+<start> when will you get ready to leave? <end>
+<start> will you go to the party tonight? <end>
+<start> will you have another cup of tea? <end>
+<start> will you sing me a beatles' song? <end>
+<start> you didn't have to come so early. <end>
+<start> you don't have to chat with them. <end>
+<start> you must get rid of such a habit. <end>
+<start> a man like that gets on my nerves. <end>
+<start> a squirrel hid among the branches. <end>
+<start> almost all the leaves have fallen. <end>
+<start> at last, he realized his mistakes. <end>
+<start> can you tell me what size this is? <end>
+<start> do i have to stay in the hospital? <end>
+<start> do you know how to use a computer? <end>
+<start> do you know how to use a computer? <end>
+<start> do you want to watch this program? <end>
+<start> elephants live in asia and africa. <end>
+<start> he decided not to go to the party. <end>
+<start> he didn't go there. neither did i. <end>
+<start> he has been to london three times. <end>
+<start> he hid his sadness behind a smile. <end>
+<start> he is able to speak ten languages. <end>
+<start> he lives in that house over there. <end>
+<start> he used pigeons in his experiment. <end>
+<start> he will write for hours at a time. <end>
+<start> he's always running short of cash. <end>
+<start> i can't buy a book this expensive. <end>
+<start> i can't put up with his arrogance. <end>
+<start> i cannot understand what happened. <end>
+<start> i don't like being made a fool of. <end>
+<start> i doubt his ability to do the job. <end>
+<start> i felt hungry after the long walk. <end>
+<start> i had a letter from her yesterday. <end>
+<start> i had the good fortune to succeed. <end>
+<start> i saw a dog swim across the river. <end>
+<start> i usually get home by six o'clock. <end>
+<start> i usually get up at eight o'clock. <end>
+<start> i was able to win the first prize. <end>
+<start> i was asked to give you a message. <end>
+<start> i was asked to give you a message. <end>
+<start> i was asked to give you a message. <end>
+<start> i'm going to the village tomorrow. <end>
+<start> it happened between eight and ten. <end>
+<start> it happened between eight and ten. <end>
+<start> it is better to ignore this point. <end>
+<start> it was proved that he was a thief. <end>
+<start> it's important for them to go out. <end>
+<start> keep your room as neat as you can. <end>
+<start> let me give you a piece of advice. <end>
+<start> mary prided herself on her beauty. <end>
+<start> mary threw the ring in tom's face. <end>
+<start> may we accompany you on your walk? <end>
+<start> my friends celebrated my birthday. <end>
+<start> my hens laid fewer eggs last year. <end>
+<start> new delhi is the capital of india. <end>
+<start> only a few people didn't go there. <end>
+<start> only a few people listened to him. <end>
+<start> she has already finished the work. <end>
+<start> she is as beautiful as her mother. <end>
+<start> she is ashamed of her old clothes. <end>
+<start> smoking will do you a lot of harm. <end>
+<start> someday your dream will come true. <end>
+<start> that bicycle is too small for you. <end>
+<start> that was an exemplary performance! <end>
+<start> the capital of india is new delhi. <end>
+<start> the job must be finished by 3 p.m. <end>
+<start> the mountain is covered with snow. <end>
+<start> the rain prevented me from coming. <end>
+<start> the road is parallel to the river. <end>
+<start> the women of france are beautiful. <end>
+<start> there was no one there besides me. <end>
+<start> there were two murders this month. <end>
+<start> there were two murders this month. <end>
+<start> they are willing to learn english. <end>
+<start> they refused to obey tom's orders. <end>
+<start> this story is worth reading again. <end>
+<start> tom is happy with his new bicycle. <end>
+<start> tom looked at me as if i were mad. <end>
+<start> we shared the profit among us all. <end>
+<start> we should observe the speed limit. <end>
+<start> we usually have breakfast at 7:30. <end>
+<start> what movies are playing this week? <end>
+<start> what time did your friend go home? <end>
+<start> what time do you get up every day? <end>
+<start> what time do you get up every day? <end>
+<start> what time do you get up every day? <end>
+<start> what time will you have breakfast? <end>
+<start> who do you think broke the window? <end>
+<start> will the weather be good tomorrow? <end>
+<start> would you like another cup of tea? <end>
+<start> you've got nothing to complain of. <end>
+<start> a police officer is talking to her. <end>
+<start> an elephant is a very large animal. <end>
+<start> are you sure of her coming on time? <end>
+<start> bern is the capital of switzerland. <end>
+<start> could you call again later, please? <end>
+<start> did you hear the news on the radio? <end>
+<start> do you have these shoes in my size? <end>
+<start> do you have these shoes in my size? <end>
+<start> do you like to live in the country? <end>
+<start> don't be afraid of making mistakes. <end>
+<start> don't speak ill of your classmates. <end>
+<start> every man should learn how to cook. <end>
+<start> everybody wants to live in comfort. <end>
+<start> few people will admit their faults. <end>
+<start> he did the reverse of what i asked. <end>
+<start> he died without having made a will. <end>
+<start> he doesn't live in my neighborhood. <end>
+<start> he had nothing to do with the case. <end>
+<start> he had to go without food for days. <end>
+<start> he has no sense of right and wrong. <end>
+<start> he has plenty of money in the bank. <end>
+<start> he kept us waiting for a long time. <end>
+<start> he left a large fortune to his son. <end>
+<start> he put down the rebellion in india. <end>
+<start> he ran faster than his brother did. <end>
+<start> he rescued the child from the fire. <end>
+<start> how do you like living on your own? <end>
+<start> how is it going in the fish market? <end>
+<start> how long will it take to get there? <end>
+<start> how many books do you read a month? <end>
+<start> how many sandwiches are there left? <end>
+<start> i am his friend and will remain so. <end>
+<start> i am married and have two children. <end>
+<start> i cannot tolerate naughty children. <end>
+<start> i don't know who wrote this letter. <end>
+<start> i don't like studying in this heat. <end>
+<start> i don't think i can wait that long. <end>
+<start> i don't think i've changed so much. <end>
+<start> i don't think that's even possible. <end>
+<start> i doubt the truth of his statement. <end>
+<start> i fell down the stairs in my haste. <end>
+<start> i had my brother repair my bicycle. <end>
+<start> i had nothing to do with the group. <end>
+<start> i haven't seen him for a long time. <end>
+<start> i hear that she's a famous actress. <end>
+<start> i helped my mother wash the dishes. <end>
+<start> i want to know about this mountain. <end>
+<start> i was able to play piano very well. <end>
+<start> i wish to go to paris to study art. <end>
+<start> i wish to go to paris to study art. <end>
+<start> i'm anxious for him to return safe. <end>
+<start> if i don't do it now, i never will. <end>
+<start> if i had wings, i would fly to you. <end>
+<start> it has been fine since last friday. <end>
+<start> it is going to rain this afternoon. <end>
+<start> it seems that everybody likes golf. <end>
+<start> it shouldn't take long to find tom. <end>
+<start> it's more difficult than you think. <end>
+<start> learning a foreign language is fun. <end>
+<start> marriage customs differ by country. <end>
+<start> my brother depends on me for money. <end>
+<start> my sister is very fond of children. <end>
+<start> my wife has just cleared the table. <end>
+<start> nowadays nobody believes in ghosts. <end>
+<start> one is tall and the other is short. <end>
+<start> she accused me of making a mistake. <end>
+<start> she asked me if i knew her address. <end>
+<start> she didn't want him to go overseas. <end>
+<start> she didn't want to speak to anyone. <end>
+<start> she felt insecure about her future. <end>
+<start> she felt insecure about her future. <end>
+<start> she is busy preparing for the trip. <end>
+<start> she was very surprised at the news. <end>
+<start> she went to the market once a week. <end>
+<start> she's in the garden planting roses. <end>
+<start> since he was tired, he went to bed. <end>
+<start> since you're here, you can help me. <end>
+<start> take this medicine every six hours. <end>
+<start> teaching english is his profession. <end>
+<start> the animals in the forest died off. <end>
+<start> the baby fell asleep in the cradle. <end>
+<start> the boy has an apple in his pocket. <end>
+<start> the fat woman was holding a monkey. <end>
+<start> the hole is about five feet across. <end>
+<start> the king was deprived of his power. <end>
+<start> the lion is the king of the jungle. <end>
+<start> the mystery still remains unsolved. <end>
+<start> the problem is being discussed now. <end>
+<start> the storm destroyed the whole town. <end>
+<start> the storm destroyed the whole town. <end>
+<start> there is a strange man at the door. <end>
+<start> these questions are easy to answer. <end>
+<start> these questions are easy to answer. <end>
+<start> they are proud of their clever son. <end>
+<start> they brought trouble on themselves. <end>
+<start> they were having marriage problems. <end>
+<start> this is a good newspaper, isn't it? <end>
+<start> to make matters worse, he fell ill. <end>
+<start> tom forced himself to get up early. <end>
+<start> tomorrow, he will land on the moon. <end>
+<start> we are all eager to know the truth. <end>
+<start> what do you think she is doing now? <end>
+<start> where should i pick the tickets up? <end>
+<start> why did you come here this morning? <end>
+<start> wooden buildings catch fire easily. <end>
+<start> would you mind my opening the door? <end>
+<start> you can have this book for nothing. <end>
+<start> you can't buy that kind of loyalty. <end>
+<start> you must take his age into account. <end>
+<start> you should make use of this chance. <end>
+<start> you should make use of this chance. <end>
+<start> you shouldn't leave the baby alone. <end>
+<start> you're doing very well. keep it up. <end>
+<start> a hundred years is called a century. <end>
+<start> according to him, she is not coming. <end>
+<start> all of a sudden, she began to laugh. <end>
+<start> all of my kids want to learn french. <end>
+<start> are you reading an interesting book? <end>
+<start> are you reading an interesting book? <end>
+<start> are you reading an interesting book? <end>
+<start> are you saying my life is in danger? <end>
+<start> can i extend my stay one more night? <end>
+<start> don't talk about it in front of him. <end>
+<start> everybody came to the class on time. <end>
+<start> everyone in my family gets up early. <end>
+<start> excuse me, is there a toilet nearby? <end>
+<start> few students use pencils these days. <end>
+<start> god helps those who help themselves. <end>
+<start> he couldn't understand the sentence. <end>
+<start> he cried as if he were a boy of six. <end>
+<start> he made up his mind to study abroad. <end>
+<start> he seemed surprised by my ignorance. <end>
+<start> he stuck the broken pieces together. <end>
+<start> he will get better little by little. <end>
+<start> her advice to me was to work harder. <end>
+<start> her way of talking got on my nerves. <end>
+<start> hurry, and you will catch the train. <end>
+<start> i am a student at oxford university. <end>
+<start> i am really pleased with my new car. <end>
+<start> i buried my dog at the pet cemetery. <end>
+<start> i don't have much money in the bank. <end>
+<start> i don't want to spend more than $10. <end>
+<start> i have the same problem that you do. <end>
+<start> i never dreamed that you would lose. <end>
+<start> i think i know that girl over there. <end>
+<start> i thought that i'd lost you forever. <end>
+<start> i visit my grandmother twice a week. <end>
+<start> i visit my grandmother twice a week. <end>
+<start> i was born and brought up in boston. <end>
+<start> i was in bed all day long yesterday. <end>
+<start> i will come back to canada tomorrow. <end>
+<start> in japan, all children go to school. <end>
+<start> keep an eye on the baby for a while. <end>
+<start> let's get together here once a week. <end>
+<start> my birthday is one month from today. <end>
+<start> my father usually comes home at six. <end>
+<start> my father went jogging after dinner. <end>
+<start> my father works for a power company. <end>
+<start> no one believes that he is innocent. <end>
+<start> opinions vary from person to person. <end>
+<start> opinions vary from person to person. <end>
+<start> she always complains of her teacher. <end>
+<start> she believes her son is still alive. <end>
+<start> she talks as if she knew everything. <end>
+<start> some like tea, others prefer coffee. <end>
+<start> stars cannot be seen in the daytime. <end>
+<start> tell me the name of the ninth month. <end>
+<start> that's a completely unfounded rumor. <end>
+<start> the cat slowly approached the mouse. <end>
+<start> the children were well looked after. <end>
+<start> the doctor advised him not to smoke. <end>
+<start> the doctor advised him not to smoke. <end>
+<start> the law says that all men are equal. <end>
+<start> the plan has been successful so far. <end>
+<start> the plane will take off in one hour. <end>
+<start> the wind scattered the leaves about. <end>
+<start> there are many old temples in kyoto. <end>
+<start> this hat does match the brown dress. <end>
+<start> tom asked me to bring him some food. <end>
+<start> tom doesn't know how to do that yet. <end>
+<start> tom doesn't yet know how to do that. <end>
+<start> tom was stabbed to death last night. <end>
+<start> we are in agreement on this subject. <end>
+<start> we managed to swim across the river. <end>
+<start> we talked to each other for a while. <end>
+<start> we were all very happy at breakfast. <end>
+<start> what are you going to do in college? <end>
+<start> what do you usually do after dinner? <end>
+<start> what was the weather like yesterday? <end>
+<start> what would the world do without tea? <end>
+<start> won't you come and see me next week? <end>
+<start> would you speak more slowly, please? <end>
+<start> you have the right to remain silent. <end>
+<start> you've never seen a genuine diamond. <end>
+<start> a thick mist covered the countryside. <end>
+<start> are there enough chairs to go around? <end>
+<start> at times i feel like quitting my job. <end>
+<start> believe it or not, this is the truth. <end>
+<start> buddhism had its beginnings in india. <end>
+<start> butter and cheese are made from milk. <end>
+<start> can you play any musical instruments? <end>
+<start> can you play any musical instruments? <end>
+<start> classical music is not my cup of tea. <end>
+<start> could you bring me another hot towel? <end>
+<start> do you feel any pain in your stomach? <end>
+<start> he broke one of the bones in his leg. <end>
+<start> he is less impatient than his father. <end>
+<start> he lost no time answering the letter. <end>
+<start> he put a hand gently on her shoulder. <end>
+<start> he said he would see me the next day. <end>
+<start> he was born in a small town in italy. <end>
+<start> he was standing at the street corner. <end>
+<start> he will be a doctor when he grows up. <end>
+<start> he wiped the sweat from his forehead. <end>
+<start> his dog follows him wherever he goes. <end>
+<start> how do you interpret these sentences? <end>
+<start> i am doing business on a large scale. <end>
+<start> i had met her many times before then. <end>
+<start> i had met him many times before then. <end>
+<start> i have nothing to say on this matter. <end>
+<start> i helped my father water the flowers. <end>
+<start> i know tom is an electrical engineer. <end>
+<start> i want to know why tom is doing this. <end>
+<start> i was amazed at the speed of the car. <end>
+<start> i was scared that you might leave me. <end>
+<start> i went to europe by way of anchorage. <end>
+<start> i'm satisfied with my current income. <end>
+<start> i'm satisfied with my current income. <end>
+<start> i'm sorry, but i can't hear you well. <end>
+<start> i'm sorry, but i can't hear you well. <end>
+<start> i've got a bit of an ache in my back. <end>
+<start> i've got one brother and two sisters. <end>
+<start> imagine that you have a time machine. <end>
+<start> in those days, i went to bed earlier. <end>
+<start> it'll be dangerous to do it that way. <end>
+<start> it's your turn. please come this way. <end>
+<start> no one else would've understood this. <end>
+<start> she complained to me of his rudeness. <end>
+<start> she prepared a wonderful meal for us. <end>
+<start> she was only pretending to be asleep. <end>
+<start> that's tom's house with the red roof. <end>
+<start> that's too small to fit on your head. <end>
+<start> the train is made up of fifteen cars. <end>
+<start> there's been a lot of rain this year. <end>
+<start> they dug here and there for treasure. <end>
+<start> they'll fall in love with each other. <end>
+<start> tom couldn't figure out where he was. <end>
+<start> tom never denied that he killed mary. <end>
+<start> we are all anxious about your health. <end>
+<start> we are all anxious about your health. <end>
+<start> we are to meet in front of his house. <end>
+<start> what put such an idea into your head? <end>
+<start> what type of job are you looking for? <end>
+<start> who are you going to eat dinner with? <end>
+<start> you can see the whole city from here. <end>
+<start> you should have attended the meeting. <end>
+<start> you're wearing your shirt inside out. <end>
+<start> you're wearing your shirt inside out. <end>
+<start> your daughter is not a child anymore. <end>
+<start> a good idea occurred to me last night. <end>
+<start> at last, the truth became known to us. <end>
+<start> don't do anything you'll regret later. <end>
+<start> he can imitate the rest of the family. <end>
+<start> he earns more money than he can spend. <end>
+<start> he exhibited no remorse for his crime. <end>
+<start> he gave his children a good education. <end>
+<start> he wouldn't allow me to drive his car. <end>
+<start> his failure has nothing to do with me. <end>
+<start> how many cars has that company bought? <end>
+<start> how many people are on board the ship? <end>
+<start> i always got up early in my childhood. <end>
+<start> i am well acquainted with the subject. <end>
+<start> i don't even want to think about that. <end>
+<start> i don't want to buy this kind of sofa. <end>
+<start> i doubt the veracity of his statement. <end>
+<start> i had never seen her before that time. <end>
+<start> i know a girl who can ride a unicycle. <end>
+<start> i know his address, but it's a secret. <end>
+<start> i regret not having bought that house. <end>
+<start> i told them to send me another ticket. <end>
+<start> i want to help you with your homework. <end>
+<start> i'd just like to ask tom one question. <end>
+<start> i'll be staying here for three months. <end>
+<start> i'm sure that she will come back soon. <end>
+<start> i've taught myself to play the guitar. <end>
+<start> it is necessary that you see a doctor. <end>
+<start> it's been ten years since we last met. <end>
+<start> last night, he studied all night long. <end>
+<start> last night, he studied all night long. <end>
+<start> leave your umbrella at the front door. <end>
+<start> look up the phrase in your dictionary. <end>
+<start> mary was looking for you at that time. <end>
+<start> mom scolded me for making fun of them. <end>
+<start> my mother put clean sheets on the bed. <end>
+<start> my sister always keeps her room clean. <end>
+<start> my uncle is an amateur cricket player. <end>
+<start> my uncle is an amateur cricket player. <end>
+<start> my uncle is an amateur cricket player. <end>
+<start> my uncle is an amateur cricket player. <end>
+<start> she called her children into the room. <end>
+<start> she passed away peacefully last night. <end>
+<start> she told me that she wanted a pet dog. <end>
+<start> she was brought up by her grandmother. <end>
+<start> she was brought up by her grandmother. <end>
+<start> she was watching the dead leaves fall. <end>
+<start> she will become a doctor in two years. <end>
+<start> sickness prevented him from going out. <end>
+<start> strange as it may sound, this is true. <end>
+<start> taste this wine to see if you like it. <end>
+<start> the dog followed him wherever he went. <end>
+<start> the food was not fit for man or beast. <end>
+<start> the police were patrolling the street. <end>
+<start> the train is ten minutes behind today. <end>
+<start> the trouble is that they have no time. <end>
+<start> there is no longer any room for doubt. <end>
+<start> there's no use trying to persuade him. <end>
+<start> they charged me for the broken window. <end>
+<start> they were scattered in all directions. <end>
+<start> this cloth is really smooth and silky. <end>
+<start> this medicine will clear up your cold. <end>
+<start> this medicine will take the pain away. <end>
+<start> tom is mary's husband's older brother. <end>
+<start> tom is looking for a place to lay low. <end>
+<start> tom was the one who showed me the way. <end>
+<start> tom was the one who showed me the way. <end>
+<start> tom was the one who showed me the way. <end>
+<start> two boys came running out of the room. <end>
+<start> we have two unused rooms in our house. <end>
+<start> we ordered pink, but we received blue. <end>
+<start> we tried it again, but couldn't do it. <end>
+<start> where's the remote control for the tv? <end>
+<start> you can see a lot of stars in the sky. <end>
+<start> you should make good use of your time. <end>
+<start> "where do you live?" "i live in tokyo." <end>
+<start> do you know anybody who could help tom? <end>
+<start> father sometimes took me to his office. <end>
+<start> he could not sleep because of the heat. <end>
+<start> he embezzled the money from his office. <end>
+<start> he had nothing to say, so he went away. <end>
+<start> he is getting along with his employees. <end>
+<start> he sold his own car without hesitation. <end>
+<start> he used to tell me stories about india. <end>
+<start> her mother was busy cooking the dinner. <end>
+<start> how many times a day does that bus run? <end>
+<start> how soon can you have this dress ready? <end>
+<start> i am fully convinced of your innocence. <end>
+<start> i am interested in american literature. <end>
+<start> i am much obliged to you for your help. <end>
+<start> i began to sing when i was a youngster. <end>
+<start> i can't put up with this noise anymore. <end>
+<start> i found nothing but a pair of scissors. <end>
+<start> i know that all of this is just a game. <end>
+<start> i met her in london for the first time. <end>
+<start> i need to go home a little early today. <end>
+<start> i was able to answer all the questions. <end>
+<start> i will ask him about it tomorrow, then. <end>
+<start> i will find out how the medicine works. <end>
+<start> i will pay my debt as soon as possible. <end>
+<start> i'd like to see him tomorrow afternoon. <end>
+<start> i've been ready to do that for a while. <end>
+<start> if you have time, please drop in on us. <end>
+<start> mother bought a beautiful doll for her. <end>
+<start> my father consented to my going abroad. <end>
+<start> my mother often suffers from headaches. <end>
+<start> nothing but a miracle can save her now. <end>
+<start> please come again two weeks from today. <end>
+<start> she is living in some village in india. <end>
+<start> she reminds me very much of her mother. <end>
+<start> she said to herself, "i am very happy." <end>
+<start> such a thing can't be found everywhere. <end>
+<start> talking is one thing, doing is another. <end>
+<start> the gentleman is a very famous pianist. <end>
+<start> the rumor proved to be an absolute lie. <end>
+<start> the scar on his cheek hardly shows now. <end>
+<start> the two languages have a lot in common. <end>
+<start> the work must be completed by tomorrow. <end>
+<start> tom is by far the smartest person here. <end>
+<start> tom told me he didn't get enough sleep. <end>
+<start> we must try to protect the environment. <end>
+<start> what languages do they speak in canada? <end>
+<start> which is the more expensive of the two? <end>
+<start> who doesn't know such a simple proverb? <end>
+<start> workers must have their hair cut short. <end>
+<start> would you mind turning down the volume? <end>
+<start> you must observe the rules of the club. <end>
+<start> you've got a nerve to say such a thing! <end>
+<start> your examination results are excellent. <end>
+<start> a smile is the best cure for a bad mood. <end>
+<start> all you have to do is follow his advice. <end>
+<start> cows are sacred to many people in india. <end>
+<start> he entered the room slowly by that door. <end>
+<start> he had to go through a lot of hardships. <end>
+<start> he had to reduce the price of his wares. <end>
+<start> he has invited me to attend his wedding. <end>
+<start> he is always complaining about his boss. <end>
+<start> he was a great poet as well as a doctor. <end>
+<start> he was covered in mud from head to foot. <end>
+<start> he was destined never to meet her again. <end>
+<start> he was happy at the news of her success. <end>
+<start> how about adding a little bit more salt? <end>
+<start> how did you get tickets for the concert? <end>
+<start> how much time do we have to finish this? <end>
+<start> i am confident he will keep his promise. <end>
+<start> i am not sure how to pronounce the word. <end>
+<start> i cannot stand his arrogance any longer. <end>
+<start> i don't know if i'll have time to do it. <end>
+<start> i have seen angels and talked with them. <end>
+<start> i was disappointed that you didn't call. <end>
+<start> i wish i had more time to talk with you. <end>
+<start> i would rather stay at home than go out. <end>
+<start> i'll expect to hear from you by tuesday. <end>
+<start> i'll give you an answer in a day or two. <end>
+<start> i'm addicted to chocolate and ice cream. <end>
+<start> i'm not ashamed of my father being poor. <end>
+<start> i'm the one who taught tom how to drive. <end>
+<start> i've never met her, but i recognize her. <end>
+<start> i've never met him, but i recognize him. <end>
+<start> i've read three books since last monday. <end>
+<start> if you're watching this video, i'm dead. <end>
+<start> if you're watching this video, i'm dead. <end>
+<start> it's about time for the train to arrive. <end>
+<start> it's getting dark. you'd better go home. <end>
+<start> it's up to you whether to buy it or not. <end>
+<start> keep going straight through the village. <end>
+<start> nobody could tell what he meant by that. <end>
+<start> people your age often have this problem. <end>
+<start> science begins when you ask why and how. <end>
+<start> she had a daughter by her first husband. <end>
+<start> she loves watching tennis matches on tv. <end>
+<start> she may have to quit her job next month. <end>
+<start> take this medicine when you have a cold. <end>
+<start> tell me what you are looking forward to. <end>
+<start> the new bridge was named rainbow bridge. <end>
+<start> the police officer arrested the burglar. <end>
+<start> the room has been empty for a long time. <end>
+<start> there are no live animals in the museum. <end>
+<start> there is no satisfying spoiled children. <end>
+<start> there used to be a big pond around here. <end>
+<start> there's something we need to talk about. <end>
+<start> they heard a gun go off in the distance. <end>
+<start> three men broke out of prison yesterday. <end>
+<start> tom did what he could to calm mary down. <end>
+<start> tom read the entire book in three hours. <end>
+<start> we should try to understand one another. <end>
+<start> what do you want to do in the afternoon? <end>
+<start> what time does your watch say it is now? <end>
+<start> what time does your watch say it is now? <end>
+<start> what were you doing before tom got here? <end>
+<start> would you just move along a bit, please? <end>
+<start> you can't eat your cake and have it too. <end>
+<start> you'll be punished if you break the law. <end>
+<start> a gentleman would not spit on the street. <end>
+<start> absence of rain caused the plants to die. <end>
+<start> are you saying that my life is in danger? <end>
+<start> as a result of the war, many people died. <end>
+<start> can you identify the man in this picture? <end>
+<start> did you feel the earthquake this morning? <end>
+<start> give up smoking if you want to live long. <end>
+<start> having seen him before, i recognized him. <end>
+<start> he could not come because of his illness. <end>
+<start> he defeated his opponent in the election. <end>
+<start> he failed to come up to our expectations. <end>
+<start> he jumped into the water clothes and all. <end>
+<start> he ordered them to release the prisoners. <end>
+<start> he tried in vain to open the locked door. <end>
+<start> i always rely on him in times of trouble. <end>
+<start> i am convinced that he did nothing wrong. <end>
+<start> i am looking for a present for my mother. <end>
+<start> i don't feel like studying english today. <end>
+<start> i don't think that tom wants to see mary. <end>
+<start> i don't think that it will rain tomorrow. <end>
+<start> i have no time to help you with the work. <end>
+<start> i heard someone call my name from behind. <end>
+<start> i was surprised i didn't need to do that. <end>
+<start> i watched the game from beginning to end. <end>
+<start> i'll never forget how kind you have been. <end>
+<start> i'm going to go buy some materials today. <end>
+<start> i'm very happy to make your acquaintance. <end>
+<start> if only i had known the answer yesterday! <end>
+<start> in the woods, she met with two strangers. <end>
+<start> it was not easy for us to find his house. <end>
+<start> japan depends on other countries for oil. <end>
+<start> my brother would often stay up all night. <end>
+<start> she has invited me to attend her wedding. <end>
+<start> the air conditioner makes too much noise. <end>
+<start> the baby has been crying for a long time. <end>
+<start> the box was so heavy i could not move it. <end>
+<start> the children don't want to play with tom. <end>
+<start> the girl who works at the bakery is cute. <end>
+<start> the museum is open from monday to friday. <end>
+<start> the old lady smiled at her granddaughter. <end>
+<start> the situation calls for drastic measures. <end>
+<start> the teacher said, "that's all for today." <end>
+<start> these pictures are really very beautiful. <end>
+<start> they live in a little village in england. <end>
+<start> tom and i are much stronger than you are. <end>
+<start> tom spends most of his time helping mary. <end>
+<start> we men are used to waiting for the women. <end>
+<start> we should do away with the death penalty. <end>
+<start> what are you going to do with this money? <end>
+<start> will you take us for a drive next sunday? <end>
+<start> would you please explain the rules to me? <end>
+<start> you should take care of your sick mother. <end>
+<start> africa was once called the dark continent. <end>
+<start> believe it or not, she has three children. <end>
+<start> cancer can be cured if discovered in time. <end>
+<start> could you send someone up to make the bed? <end>
+<start> he is always here between 5 and 6 o'clock. <end>
+<start> he is brave enough to go there by himself. <end>
+<start> he is coming to see me tomorrow afternoon. <end>
+<start> he was caught in the act of pickpocketing. <end>
+<start> he went outside for a breath of fresh air. <end>
+<start> health is the most precious thing we have. <end>
+<start> i can't put up with that noise any longer. <end>
+<start> i can't put up with that noise any longer. <end>
+<start> i couldn't make out what he wanted to say. <end>
+<start> i didn't expect tom to be so good-looking. <end>
+<start> i didn't expect tom to be so good-looking. <end>
+<start> i don't know if she will go there with me. <end>
+<start> i don't know what tom would like me to do. <end>
+<start> i don't know what tom would like me to do. <end>
+<start> i don't think you're doing that correctly. <end>
+<start> i find foreign languages very interesting. <end>
+<start> i have a lot of work to get through today. <end>
+<start> i have been taking care of him ever since. <end>
+<start> i know tom knows we don't need to do that. <end>
+<start> i know that tom is an electrical engineer. <end>
+<start> i shouldn't eat food that has sugar in it. <end>
+<start> i tried to erase the memory of her crying. <end>
+<start> i want to leave this difficult job to her. <end>
+<start> i'll wait here until my medicine is ready. <end>
+<start> i'm willing to help you if you want me to. <end>
+<start> i'm wondering whether to take on that job. <end>
+<start> it has been raining for three days on end. <end>
+<start> it is definite that he will go to america. <end>
+<start> let's go and see as many things as we can. <end>
+<start> let's let the workers go home early today. <end>
+<start> saying and doing are two different things. <end>
+<start> saying and doing are two different things. <end>
+<start> she could not come because of her illness. <end>
+<start> she is well known in both india and china. <end>
+<start> she is well known in both india and china. <end>
+<start> she showed me a letter written in english. <end>
+<start> some of the apples in the box were rotten. <end>
+<start> some people like cats, others prefer dogs. <end>
+<start> that accident was due to his carelessness. <end>
+<start> the japanese eat rice at least once a day. <end>
+<start> the old farmer did not pay him much money. <end>
+<start> the teacher was disappointed at my answer. <end>
+<start> tom won't be home for christmas this year. <end>
+<start> toudaiji is the bigger of the two temples. <end>
+<start> why is he angry about something like that? <end>
+<start> you aren't supposed to play baseball here. <end>
+<start> you're not supposed to play baseball here. <end>
+<start> you're spending too much time watching tv. <end>
+<start> are these the glasses you were looking for? <end>
+<start> cover up the injured man with this blanket. <end>
+<start> do you know the man standing on the bridge? <end>
+<start> during the war, we had to do without sugar. <end>
+<start> from year to year they were growing poorer. <end>
+<start> he did not show up at the party last night. <end>
+<start> he was arrested because he stole the money. <end>
+<start> he was arrested because he stole the money. <end>
+<start> his disappointment was obvious to everyone. <end>
+<start> his main object in life was to become rich. <end>
+<start> his pride didn't allow him to ask for help. <end>
+<start> i am afraid of the situation getting worse. <end>
+<start> i chose to leave instead of staying behind. <end>
+<start> i like the blue one. how much does it cost? <end>
+<start> i like the blue one. how much does it cost? <end>
+<start> i met my teacher on the way to the station. <end>
+<start> i never dreamed that i would meet you here. <end>
+<start> i'll let you know when it has been decided. <end>
+<start> in japan a new school year starts in april. <end>
+<start> is it necessary for me to attend the party? <end>
+<start> it is said that women live longer than men. <end>
+<start> it was tom that broke the window yesterday. <end>
+<start> let me congratulate you on your engagement. <end>
+<start> my father told me not to read books in bed. <end>
+<start> our health is our most precious possession. <end>
+<start> she has a rich vocabulary of english words. <end>
+<start> some crimes have no statute of limitations. <end>
+<start> some people want to amend the constitution. <end>
+<start> the doctor advised that she take a holiday. <end>
+<start> the doctor told him to cut down on smoking. <end>
+<start> the door was locked and we couldn't get in. <end>
+<start> the girl tried hard to hold back her tears. <end>
+<start> the man who is standing there is my father. <end>
+<start> the wind carries seeds for great distances. <end>
+<start> there are more clouds today than yesterday. <end>
+<start> they furnished the library with many books. <end>
+<start> this museum has been closed for five years. <end>
+<start> this poem was originally written in french. <end>
+<start> tom and mary want to know what our plan is. <end>
+<start> tom didn't want to go to australia with me. <end>
+<start> two brothers set out on a journey together. <end>
+<start> we investigated the matter from all angles. <end>
+<start> we stayed with them all through the summer. <end>
+<start> we've run out of paper for the photocopier. <end>
+<start> what'll you be doing at this time tomorrow? <end>
+<start> whoever wants to come to my party may come. <end>
+<start> you are not supposed to play baseball here. <end>
+<start> your plan requires a large amount of money. <end>
+<start> a madman is not accountable for his actions. <end>
+<start> a rubber ball bounces because it is elastic. <end>
+<start> all the answers to this question were wrong. <end>
+<start> all the answers to this question were wrong. <end>
+<start> do we have to get up early tomorrow morning? <end>
+<start> do you know this part of the city very well? <end>
+<start> he is a british citizen, but lives in india. <end>
+<start> he realized his dream of becoming an artist. <end>
+<start> he said he would write to me, but he hasn't. <end>
+<start> i brush my teeth at least three times a day. <end>
+<start> i don't know when she will leave for london. <end>
+<start> i feel cold. do you mind closing the window? <end>
+<start> i haven't had a chance to see the movie yet. <end>
+<start> if it rains tomorrow, will you stay at home? <end>
+<start> it is difficult for me to get up before six. <end>
+<start> it's impossible for me to explain it to you. <end>
+<start> my father spends a lot of time on his hobby. <end>
+<start> my opinion is entirely different from yours. <end>
+<start> my parents have just arrived at the station. <end>
+<start> she cried out the moment she saw her mother. <end>
+<start> she left the old newspapers lying in a heap. <end>
+<start> that movie theater always shows good movies. <end>
+<start> the baby woke up in the middle of the night. <end>
+<start> the children tried to imitate their teacher. <end>
+<start> the government has been reforming education. <end>
+<start> the male peacock has colorful tail feathers. <end>
+<start> the mother is leading her child by the hand. <end>
+<start> the thief cursed the police for finding him. <end>
+<start> the world is changing more and more quickly. <end>
+<start> this coffee is so hot that i can't drink it. <end>
+<start> this is the very book that i wanted to read. <end>
+<start> tom almost never talks about his girlfriend. <end>
+<start> tom isn't watching tv. he is reading a book. <end>
+<start> waking up is the opposite of going to sleep. <end>
+<start> whoever comes first will get the best seats. <end>
+<start> a big earthquake occurred in india yesterday. <end>
+<start> are you going to cut down all the trees here? <end>
+<start> be sure to put out the fire before you leave. <end>
+<start> did it not occur to you to close the windows? <end>
+<start> he broke himself of the bad habit of smoking. <end>
+<start> he is anxious to know the result of the test. <end>
+<start> he lost his balance and fell off his bicycle. <end>
+<start> he ought to have made allowances for his age. <end>
+<start> he tends to get angry when people oppose him. <end>
+<start> he works on the farm from morning till night. <end>
+<start> his new book is going to come out next month. <end>
+<start> i am going to stay here for a couple of days. <end>
+<start> i have two sisters, both of whom are married. <end>
+<start> i received a letter which was written by her. <end>
+<start> i was about to go out when he came to see me. <end>
+<start> i will give you a call as soon as i get home. <end>
+<start> it's been pouring here for the last few days. <end>
+<start> let me give you a lift as far as the station. <end>
+<start> mt. everest is the highest peak in the world. <end>
+<start> my father left me a lot of money in his will. <end>
+<start> she burst into tears when she heard the news. <end>
+<start> she poured coffee into the cups on the table. <end>
+<start> something is wrong with this washing machine. <end>
+<start> take off your hat when you enter a classroom. <end>
+<start> the accident was due to his careless driving. <end>
+<start> the car broke down on the way to the airport. <end>
+<start> the factory will cease operations next month. <end>
+<start> the news caused alarm throughout the village. <end>
+<start> the policeman observed the man open the door. <end>
+<start> the thief is certain to be caught eventually. <end>
+<start> they fined him 5,000 yen for illegal parking. <end>
+<start> this is the village where my father was born. <end>
+<start> to distinguish right from wrong is difficult. <end>
+<start> tom couldn't understand what mary was saying. <end>
+<start> tom couldn't understand what mary was saying. <end>
+<start> tom couldn't understand what mary was saying. <end>
+<start> tom told his friends that he never eats meat. <end>
+<start> we took it for granted that he would join us. <end>
+<start> what is the difference between this and that? <end>
+<start> what is the difference between this and that? <end>
+<start> whoever wins the race will receive the prize. <end>
+<start> you can buy whichever you like, but not both. <end>
+<start> as soon as he finished his work, he went home. <end>
+<start> going out in this rain is out of the question. <end>
+<start> he is not the sort of guy who gives in easily. <end>
+<start> he took advantage of every opportunity he had. <end>
+<start> i don't think that anyone noticed what we did. <end>
+<start> i don't think that anyone noticed what we did. <end>
+<start> i don't want there to be any misunderstanding. <end>
+<start> i had a fight with my older brother yesterday. <end>
+<start> i had a fight with my older brother yesterday. <end>
+<start> i remember my mother teaching me the alphabet. <end>
+<start> i was surprised that i didn't need to do that. <end>
+<start> i wonder where to hang the picture he gave me. <end>
+<start> i wrote down his name so i wouldn't forget it. <end>
+<start> i've been given until tomorrow to finish this. <end>
+<start> many companies advertise their products on tv. <end>
+<start> my father is my biggest source of inspiration. <end>
+<start> please don't hesitate to ask me any questions. <end>
+<start> please tell me your name and telephone number. <end>
+<start> she is busy at present and can't speak to you. <end>
+<start> she will give her picture to whoever wants it. <end>
+<start> take back what you said about me being stingy. <end>
+<start> that can't be mary. she's in the hospital now. <end>
+<start> the drug smuggler was arrested at the airport. <end>
+<start> the instant he saw the policeman, he ran away. <end>
+<start> there is a limit to how much one can tolerate. <end>
+<start> they were about to leave when i arrived there. <end>
+<start> this car has been used for the past ten years. <end>
+<start> tom is standing on the other side of the wall. <end>
+<start> tom still hasn't made eye contact with anyone. <end>
+<start> what have you been doing the past three hours? <end>
+<start> what time do you usually get up every morning? <end>
+<start> you are fortunate to have such loving parents. <end>
+<start> you don't have to make up your mind right now. <end>
+<start> you don't have to make up your mind right now. <end>
+<start> you make mistakes if you do things in a hurry. <end>
+<start> you should write it down before you forget it. <end>
+<start> you'll be all right again in a couple of days. <end>
+<start> you'll be all right again in a couple of days. <end>
+<start> you'll get a lot of presents on your birthday. <end>
+<start> can you tell me when to switch the machine off? <end>
+<start> don't forget to return the book to the library. <end>
+<start> he became a member of this club five years ago. <end>
+<start> he will commit suicide if he can't see his son. <end>
+<start> how can you tell good english from bad english? <end>
+<start> i came upon an old friend of mine on the train. <end>
+<start> i have lots of work to clear up by the weekend. <end>
+<start> i have no idea to what extent i can trust them. <end>
+<start> i have no idea to what extent i can trust them. <end>
+<start> i saw a girl whose hair came down to her waist. <end>
+<start> i saw him go into the toilet a few minutes ago. <end>
+<start> india gained independence from britain in 1947. <end>
+<start> last week five students were absent from class. <end>
+<start> nothing is better than ice cream in the summer. <end>
+<start> she reproached me for not answering the letter. <end>
+<start> something must have happened to him on the way. <end>
+<start> sometimes she tried talking to him about india. <end>
+<start> the reason which he gave is hard to understand. <end>
+<start> the station is located between these two towns. <end>
+<start> there are lots of things for us to think about. <end>
+<start> these grapes are so sour that i can't eat them. <end>
+<start> they booted him out of school for not studying. <end>
+<start> thousands of foreigners visit japan every year. <end>
+<start> tom wants to know why you didn't call him back. <end>
+<start> we had no customers, so we shut the shop early. <end>
+<start> we have some new products we'd like you to see. <end>
+<start> we will have to call on our friends to help us. <end>
+<start> while i was in taiwan, i made friends with him. <end>
+<start> would you mind speaking a little softer please? <end>
+<start> you should hand in your report to me on monday. <end>
+<start> "will they go on strike again?" "i'm afraid so." <end>
+<start> an old man was resting in the shade of the tree. <end>
+<start> could you please speak a little bit more slowly? <end>
+<start> do you think he will be elected president again? <end>
+<start> frankly speaking, i don't want to work with him. <end>
+<start> he is a nice man, except that he talks too much. <end>
+<start> he left his parents when he was eight years old. <end>
+<start> he reminded his wife to wake him up at 7:00 a.m. <end>
+<start> he sent out the parcel the day before yesterday. <end>
+<start> he was respected both as a teacher and as a man. <end>
+<start> how long did it take you to translate this book? <end>
+<start> i became friends with him while i was in taiwan. <end>
+<start> i found it impossible to do the work in one day. <end>
+<start> i have never come across such a stubborn person. <end>
+<start> i have to learn many words and phrases by heart. <end>
+<start> i thought that he had already finished the work. <end>
+<start> i was ill at ease because i didn't speak french. <end>
+<start> i was searching for something that didn't exist. <end>
+<start> i was surprised at the news of his sudden death. <end>
+<start> it is necessary for you to go there immediately. <end>
+<start> it is necessary for you to see a doctor at once. <end>
+<start> it makes no difference whether you agree or not. <end>
+<start> may i talk with you in private about the matter? <end>
+<start> she had plenty of acquaintances, but no friends. <end>
+<start> thanks to your recommendation, tom got that job. <end>
+<start> the doctor told her that she should take a rest. <end>
+<start> they are in favor of the reform of the tax laws. <end>
+<start> this elevator does not go above the sixth floor. <end>
+<start> this machine is superior in quality to that one. <end>
+<start> tom didn't expect such a nice present from mary. <end>
+<start> tom had fifty dollars in his pocket at the time. <end>
+<start> tom said he didn't think the heat bothered mary. <end>
+<start> tom said he didn't think the heat bothered mary. <end>
+<start> when she was reading the letter, she looked sad. <end>
+<start> why do you think soccer isn't popular in the us? <end>
+<start> will you exchange this sweater for a larger one? <end>
+<start> write back to me as soon as you get this letter. <end>
+<start> do you know how much strawberries cost right now? <end>
+<start> do you know how much strawberries cost right now? <end>
+<start> do you think we should import rice from the u.s.? <end>
+<start> he contracted malaria while living in the jungle. <end>
+<start> he left all his property to his wife in his will. <end>
+<start> he made such a long speech that we all got bored. <end>
+<start> i am of the opinion that he will never come back. <end>
+<start> i slept all day yesterday, because it was sunday. <end>
+<start> i will tell him about it when he comes next time. <end>
+<start> i will tell him about it when he comes next time. <end>
+<start> if possible, i'd like to travel around the world. <end>
+<start> if the coffee is too strong, add some more water. <end>
+<start> london is one of the largest cities in the world. <end>
+<start> the money should be distributed to those in need. <end>
+<start> there is no hurry about returning the book to me. <end>
+<start> there weren't any children in the park yesterday. <end>
+<start> they continued eating as if nothing had happened. <end>
+<start> they wanted to get married as soon as they could. <end>
+<start> they won't believe me even if i swear it is true. <end>
+<start> tom thought mary already knew how to drive a car. <end>
+<start> we cannot decide whether to go to college or not. <end>
+<start> you have the freedom to travel wherever you like. <end>
+<start> father objected to my going to the mountain alone. <end>
+<start> he is confident that he will pass the examination. <end>
+<start> he jumped into water without removing his clothes. <end>
+<start> i do not know for certain what she is going to do. <end>
+<start> i don't think that you're allowed to do that here. <end>
+<start> i have a gut feeling that tom won't pass the test. <end>
+<start> i have a gut feeling that tom won't pass the test. <end>
+<start> i know her by sight, but i've never spoken to her. <end>
+<start> i learned to play guitar when i was ten years old. <end>
+<start> i spent the whole afternoon chatting with friends. <end>
+<start> i stayed at home all day instead of going to work. <end>
+<start> i think there has been some misunderstanding here. <end>
+<start> i told tom what he should do, but he didn't do it. <end>
+<start> i'm not saying that your answers are always wrong. <end>
+<start> india is the seventh largest country in the world. <end>
+<start> it was so noisy that i couldn't make myself heard. <end>
+<start> it's an absolute waste of time to wait any longer. <end>
+<start> many people encouraged me to fulfill my ambitions. <end>
+<start> my mother is constantly forgetting people's names. <end>
+<start> she is very careful, so she seldom makes mistakes. <end>
+<start> the old man sat in the chair with his eyes closed. <end>
+<start> this theory is too difficult for me to comprehend. <end>
+<start> to my surprise, she could not answer the question. <end>
+<start> we've decided to leave this town tomorrow morning. <end>
+<start> what number should i call in case of an emergency? <end>
+<start> i advise you not to borrow money from your friends. <end>
+<start> i don't like the polluted atmosphere of big cities. <end>
+<start> i go to the office by bicycle except on rainy days. <end>
+<start> i want to clean the house before my parents return. <end>
+<start> i was kept waiting for a long time at the hospital. <end>
+<start> i'll be staying here in australia for three months. <end>
+<start> international trade is vital for healthy economies. <end>
+<start> it is said that he is the richest man in the world. <end>
+<start> it would take forever for me to explain everything. <end>
+<start> it's already eleven o'clock. i must be leaving now. <end>
+<start> the bat was stolen yesterday, along with the balls. <end>
+<start> the people of london are very proud of this bridge. <end>
+<start> this is the house where i lived when i was a child. <end>
+<start> we are responsible for your protection from now on. <end>
+<start> we arrived at the station as the train was leaving. <end>
+<start> we must not speak ill of others behind their backs. <end>
+<start> we will have to take off our shoes before going in. <end>
+<start> when he arrives in tokyo, i'll call you right away. <end>
+<start> why do you talk about him as if he were an old man? <end>
+<start> after some hesitation, he laid the book on the desk. <end>
+<start> i will get through with my homework before he comes. <end>
+<start> i will never forget your kindness so long as i live. <end>
+<start> look carefully. i'm going to show you how it's done. <end>
+<start> tom didn't know what to do so he didn't do anything. <end>
+<start> tom lived a year on the street, scrounging for food. <end>
+<start> a selfish man thinks of nothing but his own feelings. <end>
+<start> a selfish man thinks of nothing but his own feelings. <end>
+<start> all the flowers in the garden died for lack of water. <end>
+<start> i ran into an old friend of mine outside the station. <end>
+<start> i spent hours looking for the key that i had dropped. <end>
+<start> i want this photograph developed as soon as possible. <end>
+<start> i'll arrange for someone to pick you up at your home. <end>
+<start> it is dangerous to ride a motorbike without a helmet. <end>
+<start> it may not be necessary for us to go to that meeting. <end>
+<start> it would be better for you not to ask him for advice. <end>
+<start> maybe i'm unhappy, but i don't intend to kill myself. <end>
+<start> my hands are dirty. i have been repairing my bicycle. <end>
+<start> she gave me a large room while i stayed at her house. <end>
+<start> the government started a program to promote industry. <end>
+<start> the majority of the committee voted against the bill. <end>
+<start> the other day her mother passed away in the hospital. <end>
+<start> the speed of the spread of aids is horrifyingly fast. <end>
+<start> when you can't do what you want, you do what you can. <end>
+<start> does the mid-autumn festival fall on monday this year? <end>
+<start> does the mid-autumn festival fall on monday this year? <end>
+<start> i got up early, so that i could catch the first train. <end>
+<start> i was caught in a shower and was drenched to the skin. <end>
+<start> in japan there aren't any lakes bigger than lake biwa. <end>
+<start> in case i can't come, i'll give you a call beforehand. <end>
+<start> make sure to turn off all the lights before going out. <end>
+<start> seen from the sky, the river looked like a huge snake. <end>
+<start> the king ordered that the prisoner should be set free. <end>
+<start> the patient was lying in the bed with his eyes closed. <end>
+<start> the police arrested the man who had murdered the girl. <end>
+<start> we are supposed to take off our shoes at the entrance. <end>
+<start> we communicate with each other by telephone every day. <end>
+<start> with a little more patience, you would have succeeded. <end>
+<start> you are saying you intentionally hide your good looks? <end>
+<start> you should not speak ill of others behind their backs. <end>
+<start> you'll have to work hard if you want to pass the exam. <end>
+<start> a committee has been set up to investigate the problem. <end>
+<start> according to tv news, there was a plane crash in india. <end>
+<start> as the saying goes, "nothing ventured, nothing gained." <end>
+<start> can you tell the difference between these two pictures? <end>
+<start> don't be afraid to make mistakes when speaking english. <end>
+<start> i can't swallow these tablets without a drink of water. <end>
+<start> the taj mahal is one of the seven wonders of the world. <end>
+<start> the number of fish caught in this river was very small. <end>
+<start> there is no point in studying if you are feeling tired. <end>
+<start> they obtained a yield of 8 percent on their investment. <end>
+<start> this car has enough power to go up the mountain easily. <end>
+<start> tom has been thinking about emigrating for a while now. <end>
+<start> tom looked through the peephole, but didn't see anyone. <end>
+<start> tom wasn't the only one who was one drunk at the party. <end>
+<start> tom wasn't the only one who was one drunk at the party. <end>
+<start> we ought to do our best not to pollute our environment. <end>
+<start> you can borrow these books from the library for a week. <end>
+<start> your feet are swollen because your shoes are too small. <end>
+<start> a mother is responsible for the conduct of her children. <end>
+<start> columbus argued that he could reach india by going west. <end>
+<start> for a while now, tom has been thinking about emigrating. <end>
+<start> if i had known her address, i would have written to her. <end>
+<start> in order to stay awake, i may have to drink more coffee. <end>
+<start> in the 1600s, tea was introduced into europe from india. <end>
+<start> it's been nice talking to you, but i really must go now. <end>
+<start> it's hard to say what the weather will be like tomorrow. <end>
+<start> last night you forgot to turn off the radio, didn't you? <end>
+<start> without a dictionary, it would be hard to study english. <end>
+<start> you ought not to have spent so much money on your hobby. <end>
+<start> "when will you be back?" "it all depends on the weather." <end>
+<start> he never takes into account the fact that i am very busy. <end>
+<start> i can barely afford to buy enough food to feed my family. <end>
+<start> it is essential to have good command of english nowadays. <end>
+<start> mumbai is the capital of the indian state of maharashtra. <end>
+<start> parents are responsible for the safety of their children. <end>
+<start> parents are responsible for the safety of their children. <end>
+<start> some of the boys are fishing and the others are swimming. <end>
+<start> that child is only four, but he can already count to 100. <end>
+<start> the last time i saw tom he was heading towards the beach. <end>
+<start> the reason why you failed is you did not try hard enough. <end>
+<start> what would you like to do while you're here in australia? <end>
+<start> he couldn't sleep because of the noise outside his window. <end>
+<start> he intends to devote his life to curing the sick in india. <end>
+<start> i have so many clothes i don't know what to wear tomorrow. <end>
+<start> i tried to give her some money, but she wouldn't take any. <end>
+<start> it makes no difference to me whether you are rich or poor. <end>
+<start> japan is one of the greatest economic powers in the world. <end>
+<start> on the fifteenth of august, thousands of people fly kites. <end>
+<start> please don't look at your mobile phone while we're eating. <end>
+<start> there is nothing on earth that is not affected by the sun. <end>
+<start> there is nothing on earth that is not affected by the sun. <end>
+<start> we must hurry if we want to arrive at the station on time. <end>
+<start> according to my calculation, she should be in india by now. <end>
+<start> although they are twins, they have few interests in common. <end>
+<start> cross off the names of the people who have paid their dues. <end>
+<start> he deliberately ignored me when i passed him in the street. <end>
+<start> he promised me that he would be more careful in the future. <end>
+<start> it isn't like you to not listen to other people's opinions. <end>
+<start> seeing that movie is something like taking a trip to india. <end>
+<start> the authorities have been hiding the facts from the public. <end>
+<start> the instant he opened the door, he smelt something burning. <end>
+<start> the moment that i met tom, i just knew that we'd get along. <end>
+<start> what is the difference between imitation and real diamonds? <end>
+<start> covered with dust, the doll stood in the corner of the room. <end>
+<start> he finished his dinner because he didn't like to waste food. <end>
+<start> nobody likes him, because he is always blowing his own horn. <end>
+<start> they have demanded that all copies of the book be destroyed. <end>
+<start> what do you call a man who takes care of sheep in the field? <end>
+<start> when he would not give them higher pay, they went on strike. <end>
+<start> i feel sad when i think about all the people who die in wars. <end>
+<start> i know that i haven't been doing what i should've been doing. <end>
+<start> the fisherman exaggerated the size of the fish he had caught. <end>
+<start> the new government promised to rid the country of corruption. <end>
+<start> his shoes were so old that his toes were sticking out of them. <end>
+<start> if it had not been for her help, you would never have done it. <end>
+<start> instead of cleaning the house today, i think i'll take a walk. <end>
+<start> it has been raining on and off since the day before yesterday. <end>
+<start> it will take me no less than 10 hours to prepare for the exam. <end>
+<start> mary resembles her mother in appearance, but not in character. <end>
+<start> this morning the weather was so bad that i had to take a taxi. <end>
+<start> tom can't take a hint. you really have to spell it out to him. <end>
+<start> when he is in trouble, he always turns to his sister for help. <end>
+<start> how long has it been since you gave up teaching at that school? <end>
+<start> i don't think i shall get through all this work this afternoon. <end>
+<start> i missed my stop. how long does it take to reach the next stop? <end>
+<start> to investigate the incident would take us at least three weeks. <end>
+<start> the older you are, the more difficult it is to learn a language. <end>
+<start> electric power companies are seeking to reduce their use of coal. <end>
+<start> it is not till we lose our health that we realize its true value. <end>
+<start> it is not till we lose our health that we realize its true value. <end>
+<start> she wanted to have her hair cut, but her mother wouldn't let her. <end>
+<start> you might as well read a novel instead of staring at the ceiling. <end>
+<start> don't you think the air conditioner is turned up too high in here? <end>
+<start> it will not make much difference whether you go today or tomorrow. <end>
+<start> the boy gathered a handful of peanuts and put them in a small box. <end>
+<start> there's a rumor in the air that the firm is going into bankruptcy. <end>
+<start> when you leave the room, please make sure you turn off the lights. <end>
+<start> if tom doesn't help us, we'll never be able to finish this on time. <end>
+<start> you must not be afraid of making mistakes when learning a language. <end>
+<start> many people around the world don't have access to good quality water. <end>
+<start> the company gave him a gold watch in acknowledgement of his services. <end>
+<start> she cut the cake into six pieces and gave one to each of the children. <end>
+<start> the twin girls are so much alike that i can't tell one from the other. <end>
+<start> i make it a practice to help my brother with his homework after supper. <end>
+<start> instead of laying off these workers, why don't we just cut their hours? <end>
+<start> our parents took care of us and now it's our turn to take care of them. <end>
+<start> the thieves pulled open all the drawers of the desk in search of money. <end>
+<start> i learned to drive a car and got a driver's license when i was eighteen. <end>
+<start> father kept in touch with us by mail and telephone while he was overseas. <end>
+<start> mother teresa was a catholic nun who lived and worked in calcutta, india. <end>
+<start> from my point of view, australia is one of the best countries in the world. <end>
+<start> in 1951, sister teresa was sent to calcutta, then the largest city in india. <end>
+<start> mother teresa used the prize money for her work in india and around the world. <end>
+<start> if you go to that supermarket, you can buy most things you use in your daily life. <end>
+<start> the passengers who were injured in the accident were taken to the nearest hospital. <end>
+<start> democracy is the worst form of government, except all the others that have been tried. <end>
+<start> after almost three centuries as a spanish colony, guatemala won its independence in 1821. <end>
+<start> if my boy had not been killed in the traffic accident, he would be a college student now. <end>
+<start> when i was a kid, touching bugs didn't bother me a bit. now i can hardly stand looking at pictures of them. <end>
